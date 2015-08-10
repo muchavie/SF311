@@ -1,0 +1,50 @@
+#!/home/pogilvie/Library/node/bin/node
+
+var     sqlite3 = require('sqlite3'),
+         dbfile = "/home/pogilvie/t/t.db",
+   allPeopleSQL = 'SELECT * FROM P1 order by person_id',
+             db = new sqlite3.Database(dbfile),
+             d3 = require('d3');
+
+db.serialize(function () {
+    var people = [], stats = {};
+
+    stats.processed = 0;
+    stats.newid = 0;
+    stats.update = 0;
+
+    // Fetch People
+    db.all(AllPeopleSQL, function (personErr, personRows) {
+
+	if (personErr)
+	    throw (personErr);
+
+	db.serialize().all("SELECT changesid, dob from Daily_" + process.argv[2], function (dailyErr, dailyRows) {
+	    var p;
+
+	    if (dailyErr)
+		throw (dailyErr);
+
+	    dailyRows.forEach(function (row) {
+		stats.processed++;
+		p = binarySearch(personRows, row.changesid, 0, personRows.length);
+
+		if (p === null)
+		{
+		    p = {};
+		    p.person_id = row.changesid; p.person_dob = row.dob;
+		    stats.newid++;
+		    console.log("new id: " + p.person_id);
+		    db.run("INSERT INTO Person (person_id, person_dob) VALUES (?, ?)", p.person_id, p.person_dob); 
+		}
+		else if (p.person_dob !== row.dob)
+		{
+		    console.log("update id: " + p.person_id + " old dob: " + p.person_dob + " new dob: " + row.dob);
+		    stats.update++;
+		    db.run("UPDATE Person SET person_dob = ? WHERE person_id = ?", row.dob, p.person_id);
+		}
+	    });
+	    console.log("Processed: " + stats.processed + " New: " + stats.newid + " Updated: " + stats.update); 	    
+	});
+    });
+});

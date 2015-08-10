@@ -1,0 +1,598 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "w4sk-nq57",
+      "name" : "HSA 90 day emergency shelter waitlist",
+      "averageRating" : 0,
+      "category" : "Social Services",
+      "createdAt" : 1389123350,
+      "description" : "Provides the seniority list for entry into HSA 90 day emergency shelter waitlist. The list will be generated on 2/24/14 and updated twice daily.",
+      "displayType" : "table",
+      "downloadCount" : 54,
+      "indexUpdatedAt" : 1395916558,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7402559,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393001406,
+      "publicationGroup" : 1430619,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1395939910,
+      "rowsUpdatedBy" : "jmys-xxvb",
+      "state" : "normal",
+      "tableId" : 1484821,
+      "totalTimesRated" : 0,
+      "viewCount" : 1696,
+      "viewLastModified" : 1393265103,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 134615945,
+        "name" : "﻿Position",
+        "dataTypeName" : "number",
+        "fieldName" : "position_number",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437444,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 640,
+          "smallest" : "1",
+          "sum" : "205120",
+          "null" : 1,
+          "average" : "320.5",
+          "largest" : "640",
+          "top" : [ {
+            "count" : 20,
+            "item" : "616"
+          }, {
+            "count" : 19,
+            "item" : "617"
+          }, {
+            "count" : 18,
+            "item" : "618"
+          }, {
+            "count" : 17,
+            "item" : "619"
+          }, {
+            "count" : 16,
+            "item" : "620"
+          }, {
+            "count" : 15,
+            "item" : "621"
+          }, {
+            "count" : 14,
+            "item" : "622"
+          }, {
+            "count" : 13,
+            "item" : "623"
+          }, {
+            "count" : 12,
+            "item" : "624"
+          }, {
+            "count" : 11,
+            "item" : "625"
+          }, {
+            "count" : 10,
+            "item" : "626"
+          }, {
+            "count" : 9,
+            "item" : "627"
+          }, {
+            "count" : 8,
+            "item" : "628"
+          }, {
+            "count" : 7,
+            "item" : "629"
+          }, {
+            "count" : 6,
+            "item" : "630"
+          }, {
+            "count" : 5,
+            "item" : "631"
+          }, {
+            "count" : 4,
+            "item" : "632"
+          }, {
+            "count" : 3,
+            "item" : "633"
+          }, {
+            "count" : 2,
+            "item" : "634"
+          }, {
+            "count" : 1,
+            "item" : "635"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 134615946,
+        "name" : "Seniority Number",
+        "dataTypeName" : "number",
+        "fieldName" : "reservation_seniority",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437445,
+        "width" : 107,
+        "cachedContents" : {
+          "non_null" : 640,
+          "smallest" : "14055025",
+          "sum" : "9004282548",
+          "null" : 1,
+          "average" : "14069191.48125",
+          "largest" : "14085022",
+          "top" : [ {
+            "count" : 20,
+            "item" : "14084023"
+          }, {
+            "count" : 19,
+            "item" : "14084024"
+          }, {
+            "count" : 18,
+            "item" : "14084025"
+          }, {
+            "count" : 17,
+            "item" : "14085001"
+          }, {
+            "count" : 16,
+            "item" : "14085002"
+          }, {
+            "count" : 15,
+            "item" : "14085003"
+          }, {
+            "count" : 14,
+            "item" : "14085004"
+          }, {
+            "count" : 13,
+            "item" : "14085005"
+          }, {
+            "count" : 12,
+            "item" : "14085006"
+          }, {
+            "count" : 11,
+            "item" : "14085007"
+          }, {
+            "count" : 10,
+            "item" : "14085008"
+          }, {
+            "count" : 9,
+            "item" : "14085009"
+          }, {
+            "count" : 8,
+            "item" : "14085010"
+          }, {
+            "count" : 7,
+            "item" : "14085011"
+          }, {
+            "count" : 6,
+            "item" : "14085012"
+          }, {
+            "count" : 5,
+            "item" : "14085013"
+          }, {
+            "count" : 4,
+            "item" : "14085014"
+          }, {
+            "count" : 3,
+            "item" : "14085015"
+          }, {
+            "count" : 2,
+            "item" : "14085016"
+          }, {
+            "count" : 1,
+            "item" : "14085017"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 134615947,
+        "name" : "DOB",
+        "dataTypeName" : "text",
+        "fieldName" : "dob",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17482474,
+        "width" : 76,
+        "cachedContents" : {
+          "non_null" : 640,
+          "smallest" : "01-01-1968",
+          "null" : 1,
+          "largest" : "12-31-1976",
+          "top" : [ {
+            "count" : 20,
+            "item" : "12-13-1978"
+          }, {
+            "count" : 19,
+            "item" : "08-31-1985"
+          }, {
+            "count" : 18,
+            "item" : "08-24-1960"
+          }, {
+            "count" : 17,
+            "item" : "07-20-1937"
+          }, {
+            "count" : 16,
+            "item" : "10-12-1962"
+          }, {
+            "count" : 15,
+            "item" : "10-30-1959"
+          }, {
+            "count" : 14,
+            "item" : "08-07-1984"
+          }, {
+            "count" : 13,
+            "item" : "11-30-1989"
+          }, {
+            "count" : 12,
+            "item" : "12-08-1946"
+          }, {
+            "count" : 11,
+            "item" : "12-10-1988"
+          }, {
+            "count" : 10,
+            "item" : "11-14-1973"
+          }, {
+            "count" : 9,
+            "item" : "09-19-1973"
+          }, {
+            "count" : 8,
+            "item" : "02-08-1957"
+          }, {
+            "count" : 7,
+            "item" : "02-12-1956"
+          }, {
+            "count" : 6,
+            "item" : "07-22-1962"
+          }, {
+            "count" : 5,
+            "item" : "06-21-1962"
+          }, {
+            "count" : 4,
+            "item" : "01-30-1954"
+          }, {
+            "count" : 3,
+            "item" : "11-21-1948"
+          }, {
+            "count" : 2,
+            "item" : "11-26-1943"
+          }, {
+            "count" : 1,
+            "item" : "12-24-1967"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 134615948,
+        "name" : "CHANGES ID",
+        "dataTypeName" : "number",
+        "fieldName" : "txtchangesid",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17482475,
+        "width" : 73,
+        "cachedContents" : {
+          "non_null" : 640,
+          "smallest" : "0",
+          "sum" : "157359880",
+          "null" : 1,
+          "average" : "245874.8125",
+          "largest" : "373168",
+          "top" : [ {
+            "count" : 20,
+            "item" : "372102"
+          }, {
+            "count" : 19,
+            "item" : "351946"
+          }, {
+            "count" : 18,
+            "item" : "48949"
+          }, {
+            "count" : 17,
+            "item" : "326455"
+          }, {
+            "count" : 16,
+            "item" : "316254"
+          }, {
+            "count" : 15,
+            "item" : "333129"
+          }, {
+            "count" : 14,
+            "item" : "366151"
+          }, {
+            "count" : 13,
+            "item" : "359696"
+          }, {
+            "count" : 12,
+            "item" : "30209"
+          }, {
+            "count" : 11,
+            "item" : "373168"
+          }, {
+            "count" : 10,
+            "item" : "370426"
+          }, {
+            "count" : 9,
+            "item" : "6521"
+          }, {
+            "count" : 8,
+            "item" : "34693"
+          }, {
+            "count" : 7,
+            "item" : "326150"
+          }, {
+            "count" : 6,
+            "item" : "28786"
+          }, {
+            "count" : 5,
+            "item" : "15106"
+          }, {
+            "count" : 4,
+            "item" : "48562"
+          }, {
+            "count" : 3,
+            "item" : "31937"
+          }, {
+            "count" : 2,
+            "item" : "17865"
+          }, {
+            "count" : 1,
+            "item" : "278719"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 134615949,
+        "name" : "311 Case ID",
+        "dataTypeName" : "number",
+        "fieldName" : "caseid",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437446,
+        "width" : 71,
+        "cachedContents" : {
+          "non_null" : 640,
+          "smallest" : "3370159",
+          "sum" : "2199990524",
+          "null" : 1,
+          "average" : "3437485.19375",
+          "largest" : "3490520",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3485987"
+          }, {
+            "count" : 19,
+            "item" : "3483367"
+          }, {
+            "count" : 18,
+            "item" : "3483275"
+          }, {
+            "count" : 17,
+            "item" : "3488795"
+          }, {
+            "count" : 16,
+            "item" : "3487811"
+          }, {
+            "count" : 15,
+            "item" : "3486891"
+          }, {
+            "count" : 14,
+            "item" : "3487059"
+          }, {
+            "count" : 13,
+            "item" : "3489262"
+          }, {
+            "count" : 12,
+            "item" : "3490177"
+          }, {
+            "count" : 11,
+            "item" : "3489228"
+          }, {
+            "count" : 10,
+            "item" : "3490520"
+          }, {
+            "count" : 9,
+            "item" : "3489118"
+          }, {
+            "count" : 8,
+            "item" : "3486999"
+          }, {
+            "count" : 7,
+            "item" : "3490492"
+          }, {
+            "count" : 6,
+            "item" : "3441300"
+          }, {
+            "count" : 5,
+            "item" : "3490445"
+          }, {
+            "count" : 4,
+            "item" : "3488872"
+          }, {
+            "count" : 3,
+            "item" : "3490213"
+          }, {
+            "count" : 2,
+            "item" : "3489461"
+          }, {
+            "count" : 1,
+            "item" : "3487150"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 134615950,
+        "name" : "Instructions",
+        "dataTypeName" : "text",
+        "fieldName" : "message",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17479537,
+        "width" : 346,
+        "cachedContents" : {
+          "non_null" : 44,
+          "smallest" : "Please call 311 between 9:30AM and 5PM, Mon to Fri",
+          "null" : 597,
+          "largest" : "Please call 311 between 9:30AM and 5PM, Mon to Fri",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Please call 311 between 9:30AM and 5PM, Mon to Fri"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "disabledFeatureFlags" : [ "allow_comments" ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Additional Information" : {
+            "Special Use Disclaimer" : "",
+            "Dataset Fields" : ""
+          },
+          "Department Metrics" : {
+            "Publishing Department" : "311",
+            "Frequency" : "Daily"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "isin-8y46",
+        "displayName" : "AndyM",
+        "profileImageUrlLarge" : "/images/profile/5460/9342/Andy_Web_Photo_526_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5460/9342/Andy_Web_Photo_526_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5460/9342/Andy_Web_Photo_526_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "AndyM",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "isin-8y46",
+        "displayName" : "AndyM",
+        "profileImageUrlLarge" : "/images/profile/5460/9342/Andy_Web_Photo_526_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5460/9342/Andy_Web_Photo_526_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5460/9342/Andy_Web_Photo_526_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "AndyM",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 29145, "ED4A694C-030A-4293-A3E0-95B437FF66EB", 29145, 1395939907, "392873", 1395939907, "392873", null, "1", "14055141", "01-29-1965", "290127", "3379037", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29146, "F2D7FBDC-79F6-46EF-99F8-968E75DC2836", 29146, 1395939908, "392873", 1395939908, "392873", null, "2", "14055146", "03-01-1969", "372025", "3392293", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29147, "C0E8FBB1-E275-4E8D-A93B-449F8A299ACF", 29147, 1395939908, "392873", 1395939908, "392873", null, "3", "14055147", "04-01-1984", "25573", "3390892", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29148, "217EC911-7B67-4EB0-AED8-A525017FB417", 29148, 1395939908, "392873", 1395939908, "392873", null, "4", "14055149", "05-15-1967", "285642", "3372684", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29149, "E3B4C9E4-7C9F-4476-9262-4AE4E21C6F3A", 29149, 1395939908, "392873", 1395939908, "392873", null, "5", "14055150", "07-25-1982", "369207", "3383603", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29150, "99C86082-AFAB-41F9-A515-04B6CDB451AA", 29150, 1395939908, "392873", 1395939908, "392873", null, "6", "14055155", "06-16-1953", "51908", "3385377", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29151, "95948482-CD97-476F-A4BC-9623A66E092C", 29151, 1395939908, "392873", 1395939908, "392873", null, "7", "14055165", "08-09-1992", "371416", "3391263", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29152, "EF3291C5-2BF5-4BF8-A630-57A9F838AE4B", 29152, 1395939908, "392873", 1395939908, "392873", null, "8", "14055167", "09-21-1960", "11006", "3371447", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29153, "A55EA856-7423-4B50-8D3C-EC3969F151E6", 29153, 1395939908, "392873", 1395939908, "392873", null, "9", "14055168", "09-26-1956", "298737", "3370395", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 29792, "E7722FBC-9942-4625-A7B1-E0799197B889", 29792, 1395939908, "392873", 1395939908, "392873", null, "648", "14086019", "02-02-1971", "21339", "3492102", null ]
+, [ 29793, "41AEF229-0E68-41AD-8DB0-4A425031EA84", 29793, 1395939908, "392873", 1395939908, "392873", null, "649", "14086020", "07-13-1988", "317831", "3494813", null ]
+, [ 29794, "82A36C47-D421-4BFD-9FE4-73B29805971A", 29794, 1395939908, "392873", 1395939908, "392873", null, null, null, null, null, null, null ]
+ ]
+}

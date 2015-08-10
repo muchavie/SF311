@@ -1,0 +1,1 @@
+drop table Daily_20140516;

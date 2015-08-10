@@ -1,0 +1,40 @@
+<html>
+<head>
+    <meta charset = "UTF-8">
+    <script src = "http://www.ogilvie.us.com:/lib/d3.v3.js"> </script>
+</head>
+<body>
+    <div id = 'chart'></div>
+    <script>
+    var dataset = [  0, 0, 0, 0, 0,
+                     0, 0, 0, 0, 0,
+                     0, 0, 0, 0, 0,
+                     0, 0, 0, 0, 5,
+                    10,16,18,17,22,
+                    25,36,26,16,38,
+                    24,29,32,33,44,
+                    42,40,39,38,41,
+                    52,47,51,46,47,
+                    59,53,71,54,70,
+                    73,68,72,75,60,
+                    65,56,59,66,58,
+                    45,40,44,34,31,
+                    25,23,17,17,12,
+                    11,12, 6, 4, 9,
+                     6, 3, 5, 0, 1, 
+                     4, 2, 2, 1, 1,
+                     0, 0, 0, 0, 0,
+                     0, 0, 0, 0, 1 ],
+            w = 700,
+            h = 250,
+          svg = d3.select('body').append('svg').attr('width', w).attr('height', h);
+        
+        svg.selectAll('rect').data(dataset).enter().append('rect')
+                             .attr('x', function(d,i){return i * (w / dataset.length);})
+                             .attr('y', function(d) {return h - d;})
+                             .attr('width', (w/dataset.length) - 3)
+                             .attr('height', function(d) {return d * 3;})
+                             .attr('fill', 'teal');
+    </script>  
+</body>
+</html>

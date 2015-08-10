@@ -1,0 +1,1266 @@
+{
+  "meta" : {
+    "view" : {
+      "id" : "w4sk-nq57",
+      "name" : "HSA 90 day emergency shelter waitlist",
+      "averageRating" : 0,
+      "category" : "Social Services",
+      "createdAt" : 1389123350,
+      "description" : "Provides the seniority list for entry into HSA 90 day emergency shelter waitlist. The list will be generated on 2/24/14 and updated twice daily.",
+      "displayType" : "table",
+      "downloadCount" : 65,
+      "indexUpdatedAt" : 1397477193,
+      "newBackend" : false,
+      "numberOfComments" : 0,
+      "oid" : 7402559,
+      "publicationAppendEnabled" : false,
+      "publicationDate" : 1393001406,
+      "publicationGroup" : 1430619,
+      "publicationStage" : "published",
+      "rowsUpdatedAt" : 1397667925,
+      "rowsUpdatedBy" : "jmys-xxvb",
+      "state" : "normal",
+      "tableId" : 1484821,
+      "totalTimesRated" : 0,
+      "viewCount" : 2313,
+      "viewLastModified" : 1393265103,
+      "viewType" : "tabular",
+      "columns" : [ {
+        "id" : -1,
+        "name" : "sid",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":sid",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "id",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":id",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "position",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":position",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "created_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":created_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_at",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_at",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "updated_meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":updated_meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : -1,
+        "name" : "meta",
+        "dataTypeName" : "meta_data",
+        "fieldName" : ":meta",
+        "position" : 0,
+        "renderTypeName" : "meta_data",
+        "format" : {
+        }
+      }, {
+        "id" : 134615945,
+        "name" : "﻿Position",
+        "dataTypeName" : "number",
+        "fieldName" : "position_number",
+        "position" : 1,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437444,
+        "width" : 50,
+        "cachedContents" : {
+          "non_null" : 647,
+          "smallest" : "1",
+          "sum" : "209628",
+          "null" : 1,
+          "average" : "324",
+          "largest" : "647",
+          "top" : [ {
+            "count" : 20,
+            "item" : "616"
+          }, {
+            "count" : 19,
+            "item" : "617"
+          }, {
+            "count" : 18,
+            "item" : "618"
+          }, {
+            "count" : 17,
+            "item" : "619"
+          }, {
+            "count" : 16,
+            "item" : "620"
+          }, {
+            "count" : 15,
+            "item" : "621"
+          }, {
+            "count" : 14,
+            "item" : "622"
+          }, {
+            "count" : 13,
+            "item" : "623"
+          }, {
+            "count" : 12,
+            "item" : "624"
+          }, {
+            "count" : 11,
+            "item" : "625"
+          }, {
+            "count" : 10,
+            "item" : "626"
+          }, {
+            "count" : 9,
+            "item" : "627"
+          }, {
+            "count" : 8,
+            "item" : "628"
+          }, {
+            "count" : 7,
+            "item" : "629"
+          }, {
+            "count" : 6,
+            "item" : "630"
+          }, {
+            "count" : 5,
+            "item" : "631"
+          }, {
+            "count" : 4,
+            "item" : "632"
+          }, {
+            "count" : 3,
+            "item" : "633"
+          }, {
+            "count" : 2,
+            "item" : "634"
+          }, {
+            "count" : 1,
+            "item" : "635"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "false",
+          "align" : "right"
+        }
+      }, {
+        "id" : 134615946,
+        "name" : "Seniority Number",
+        "dataTypeName" : "number",
+        "fieldName" : "reservation_seniority",
+        "position" : 2,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437445,
+        "width" : 107,
+        "cachedContents" : {
+          "non_null" : 647,
+          "smallest" : "14058045",
+          "sum" : "9112654035",
+          "null" : 1,
+          "average" : "14084473.00618238",
+          "largest" : "14105029",
+          "top" : [ {
+            "count" : 20,
+            "item" : "14104003"
+          }, {
+            "count" : 19,
+            "item" : "14104004"
+          }, {
+            "count" : 18,
+            "item" : "14104005"
+          }, {
+            "count" : 17,
+            "item" : "14105001"
+          }, {
+            "count" : 16,
+            "item" : "14105002"
+          }, {
+            "count" : 15,
+            "item" : "14105003"
+          }, {
+            "count" : 14,
+            "item" : "14105004"
+          }, {
+            "count" : 13,
+            "item" : "14105005"
+          }, {
+            "count" : 12,
+            "item" : "14105006"
+          }, {
+            "count" : 11,
+            "item" : "14105007"
+          }, {
+            "count" : 10,
+            "item" : "14105008"
+          }, {
+            "count" : 9,
+            "item" : "14105009"
+          }, {
+            "count" : 8,
+            "item" : "14105010"
+          }, {
+            "count" : 7,
+            "item" : "14105011"
+          }, {
+            "count" : 6,
+            "item" : "14105012"
+          }, {
+            "count" : 5,
+            "item" : "14105013"
+          }, {
+            "count" : 4,
+            "item" : "14105014"
+          }, {
+            "count" : 3,
+            "item" : "14105015"
+          }, {
+            "count" : 2,
+            "item" : "14105016"
+          }, {
+            "count" : 1,
+            "item" : "14105017"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "noCommas" : "true",
+          "align" : "right"
+        }
+      }, {
+        "id" : 134615947,
+        "name" : "DOB",
+        "dataTypeName" : "text",
+        "fieldName" : "dob",
+        "position" : 3,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17482474,
+        "width" : 76,
+        "cachedContents" : {
+          "non_null" : 647,
+          "smallest" : "01-01-1958",
+          "null" : 1,
+          "largest" : "12-31-1974",
+          "top" : [ {
+            "count" : 20,
+            "item" : "10-10-1962"
+          }, {
+            "count" : 19,
+            "item" : "06-15-1942"
+          }, {
+            "count" : 18,
+            "item" : "02-04-1955"
+          }, {
+            "count" : 17,
+            "item" : "04-29-1967"
+          }, {
+            "count" : 16,
+            "item" : "09-02-1950"
+          }, {
+            "count" : 15,
+            "item" : "04-19-1983"
+          }, {
+            "count" : 14,
+            "item" : "05-02-1988"
+          }, {
+            "count" : 13,
+            "item" : "06-18-1970"
+          }, {
+            "count" : 12,
+            "item" : "07-10-1958"
+          }, {
+            "count" : 11,
+            "item" : "12-24-1952"
+          }, {
+            "count" : 10,
+            "item" : "01-21-1980"
+          }, {
+            "count" : 9,
+            "item" : "08-13-9174"
+          }, {
+            "count" : 8,
+            "item" : "03-18-1954"
+          }, {
+            "count" : 7,
+            "item" : "02-02-1959"
+          }, {
+            "count" : 6,
+            "item" : "01-22-1960"
+          }, {
+            "count" : 5,
+            "item" : "06-22-1962"
+          }, {
+            "count" : 4,
+            "item" : "01-19-1967"
+          }, {
+            "count" : 3,
+            "item" : "10-29-1973"
+          }, {
+            "count" : 2,
+            "item" : "02-16-1948"
+          }, {
+            "count" : 1,
+            "item" : "09-22-1968"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      }, {
+        "id" : 134615948,
+        "name" : "CHANGES ID",
+        "dataTypeName" : "number",
+        "fieldName" : "txtchangesid",
+        "position" : 4,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17482475,
+        "width" : 73,
+        "cachedContents" : {
+          "non_null" : 647,
+          "smallest" : "6125",
+          "sum" : "160063883",
+          "null" : 1,
+          "average" : "247393.9459041731",
+          "largest" : "373729",
+          "top" : [ {
+            "count" : 20,
+            "item" : "319935"
+          }, {
+            "count" : 19,
+            "item" : "322598"
+          }, {
+            "count" : 18,
+            "item" : "28435"
+          }, {
+            "count" : 17,
+            "item" : "311078"
+          }, {
+            "count" : 16,
+            "item" : "334997"
+          }, {
+            "count" : 15,
+            "item" : "54482"
+          }, {
+            "count" : 14,
+            "item" : "373729"
+          }, {
+            "count" : 13,
+            "item" : "329405"
+          }, {
+            "count" : 12,
+            "item" : "302356"
+          }, {
+            "count" : 11,
+            "item" : "26723"
+          }, {
+            "count" : 10,
+            "item" : "293588"
+          }, {
+            "count" : 9,
+            "item" : "36701"
+          }, {
+            "count" : 8,
+            "item" : "314907"
+          }, {
+            "count" : 7,
+            "item" : "8080"
+          }, {
+            "count" : 6,
+            "item" : "364774"
+          }, {
+            "count" : 5,
+            "item" : "362075"
+          }, {
+            "count" : 4,
+            "item" : "368868"
+          }, {
+            "count" : 3,
+            "item" : "306850"
+          }, {
+            "count" : 2,
+            "item" : "218924"
+          }, {
+            "count" : 1,
+            "item" : "339963"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 134615949,
+        "name" : "311 Case ID",
+        "dataTypeName" : "number",
+        "fieldName" : "caseid",
+        "position" : 5,
+        "renderTypeName" : "number",
+        "tableColumnId" : 17437446,
+        "width" : 71,
+        "cachedContents" : {
+          "non_null" : 647,
+          "smallest" : "3405456",
+          "sum" : "2255883674",
+          "null" : 1,
+          "average" : "3486682.649149923",
+          "largest" : "3552248",
+          "top" : [ {
+            "count" : 20,
+            "item" : "3547460"
+          }, {
+            "count" : 19,
+            "item" : "3546126"
+          }, {
+            "count" : 18,
+            "item" : "3547650"
+          }, {
+            "count" : 17,
+            "item" : "3551785"
+          }, {
+            "count" : 16,
+            "item" : "3550980"
+          }, {
+            "count" : 15,
+            "item" : "3549904"
+          }, {
+            "count" : 14,
+            "item" : "3548566"
+          }, {
+            "count" : 13,
+            "item" : "3550870"
+          }, {
+            "count" : 12,
+            "item" : "3548341"
+          }, {
+            "count" : 11,
+            "item" : "3548447"
+          }, {
+            "count" : 10,
+            "item" : "3550226"
+          }, {
+            "count" : 9,
+            "item" : "3552175"
+          }, {
+            "count" : 8,
+            "item" : "3550431"
+          }, {
+            "count" : 7,
+            "item" : "3550136"
+          }, {
+            "count" : 6,
+            "item" : "3549043"
+          }, {
+            "count" : 5,
+            "item" : "3549713"
+          }, {
+            "count" : 4,
+            "item" : "3549456"
+          }, {
+            "count" : 3,
+            "item" : "3550140"
+          }, {
+            "count" : 2,
+            "item" : "3548856"
+          }, {
+            "count" : 1,
+            "item" : "3550065"
+          } ]
+        },
+        "format" : {
+          "precisionStyle" : "standard",
+          "align" : "right",
+          "noCommas" : "true"
+        }
+      }, {
+        "id" : 134615950,
+        "name" : "Instructions",
+        "dataTypeName" : "text",
+        "fieldName" : "message",
+        "position" : 6,
+        "renderTypeName" : "text",
+        "tableColumnId" : 17479537,
+        "width" : 346,
+        "cachedContents" : {
+          "non_null" : 119,
+          "smallest" : "Please call 311 between 9:30AM and 5PM, Mon to Fri",
+          "null" : 529,
+          "largest" : "Please call 311 between 9:30AM and 5PM, Mon to Fri",
+          "top" : [ {
+            "count" : 20,
+            "item" : "Please call 311 between 9:30AM and 5PM, Mon to Fri"
+          } ]
+        },
+        "format" : {
+          "align" : "left"
+        }
+      } ],
+      "disabledFeatureFlags" : [ "allow_comments" ],
+      "grants" : [ {
+        "inherited" : false,
+        "type" : "viewer",
+        "flags" : [ "public" ]
+      } ],
+      "metadata" : {
+        "custom_fields" : {
+          "Additional Information" : {
+            "Special Use Disclaimer" : "",
+            "Dataset Fields" : ""
+          },
+          "Department Metrics" : {
+            "Publishing Department" : "311",
+            "Frequency" : "Daily"
+          }
+        },
+        "renderTypeConfig" : {
+          "visible" : {
+            "table" : true
+          }
+        },
+        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+        "rdfSubject" : "0"
+      },
+      "owner" : {
+        "id" : "isin-8y46",
+        "displayName" : "AndyM",
+        "profileImageUrlLarge" : "/images/profile/5460/9342/Andy_Web_Photo_526_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5460/9342/Andy_Web_Photo_526_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5460/9342/Andy_Web_Photo_526_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "AndyM",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "query" : {
+      },
+      "rights" : [ "read" ],
+      "tableAuthor" : {
+        "id" : "isin-8y46",
+        "displayName" : "AndyM",
+        "profileImageUrlLarge" : "/images/profile/5460/9342/Andy_Web_Photo_526_large.jpg",
+        "profileImageUrlMedium" : "/images/profile/5460/9342/Andy_Web_Photo_526_thumb.jpg",
+        "profileImageUrlSmall" : "/images/profile/5460/9342/Andy_Web_Photo_526_tiny.jpg",
+        "roleName" : "administrator",
+        "screenName" : "AndyM",
+        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ]
+      },
+      "flags" : [ "default" ]
+    }
+  },
+  "data" : [ [ 51917, "6C394C2A-3490-4B92-A009-B43521E08EC2", 51917, 1397667920, "392873", 1397667920, "392873", null, "1", "14058045", "03-11-1962", "297441", "3405456", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51918, "89C6778B-4E3D-4D3E-BA7F-88C528EAC7C2", 51918, 1397667920, "392873", 1397667920, "392873", null, "2", "14059002", "07-18-1980", "55499", "3409094", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51919, "AB35BFAB-A65B-44D2-8C08-28AC8C76221E", 51919, 1397667920, "392873", 1397667920, "392873", null, "3", "14059004", "06-06-1990", "339233", "3408381", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51920, "B70A8776-9C1B-46B6-A2D0-88066202422F", 51920, 1397667920, "392873", 1397667920, "392873", null, "4", "14059007", "10-10-1973", "354930", "3407349", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51921, "29591947-BBB9-45D9-84B4-7CB3438AE3FE", 51921, 1397667920, "392873", 1397667920, "392873", null, "5", "14059016", "12-08-1984", "367227", "3407837", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51922, "E6272192-97A1-43CB-9D8A-A6AAA14EDC92", 51922, 1397667920, "392873", 1397667920, "392873", null, "6", "14060002", "08-02-1956", "370357", "3410531", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51923, "7E69C100-5E29-4E0C-AC63-166F2824DC94", 51923, 1397667920, "392873", 1397667920, "392873", null, "7", "14061004", "08-29-1987", "333781", "3413329", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51924, "3BAFD0BC-FFE3-43E3-AC49-AE98135B7D90", 51924, 1397667920, "392873", 1397667920, "392873", null, "8", "14061005", "08-17-1966", "371871", "3413200", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51925, "2F693CAE-434F-433E-B106-F78B13F55D84", 51925, 1397667920, "392873", 1397667920, "392873", null, "9", "14061006", "08-27-1981", "372476", "3413619", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51926, "602EB0D1-4B9A-4311-9868-1BDA46A33D96", 51926, 1397667920, "392873", 1397667920, "392873", null, "10", "14061010", "02-05-1962", "363551", "3413872", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51927, "7D4607F1-D743-43E0-AB26-459E3DC7DB63", 51927, 1397667920, "392873", 1397667920, "392873", null, "11", "14062002", "03-03-1989", "366956", "3415903", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51928, "836DEDA8-BA3A-4F5D-B0FB-6D3EFE3E35A1", 51928, 1397667920, "392873", 1397667920, "392873", null, "12", "14062006", "04-22-1949", "41110", "3415345", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51929, "A76395E8-03CE-4E6E-8594-A61D0A137D43", 51929, 1397667920, "392873", 1397667920, "392873", null, "13", "14062010", "01-20-1986", "372470", "3415971", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51930, "DCC6A67A-6E53-457E-98CB-5CE1075C4E17", 51930, 1397667920, "392873", 1397667920, "392873", null, "14", "14062011", "10-22-1987", "372533", "3416911", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51931, "E9822FA1-749D-45C4-829B-994F0B6BBAD2", 51931, 1397667920, "392873", 1397667920, "392873", null, "15", "14062014", "11-03-1985", "372350", "3415611", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51932, "887A2ACC-AC3C-4098-B98D-989FF61BE67A", 51932, 1397667920, "392873", 1397667920, "392873", null, "16", "14062015", "10-20-1954", "311991", "3415515", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51933, "24B7896B-8EBC-48A6-9052-96FBDEEA35CD", 51933, 1397667920, "392873", 1397667920, "392873", null, "17", "14063002", "03-29-1966", "338877", "3418339", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51934, "263865CA-B795-40DB-87D9-13667B0DBBFD", 51934, 1397667920, "392873", 1397667920, "392873", null, "18", "14063009", "12-27-1981", "371323", "3417939", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51935, "A89489FD-E746-4244-8447-FF03520D1BCF", 51935, 1397667920, "392873", 1397667920, "392873", null, "19", "14063010", "08-08-1970", "13575", "3420938", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51936, "FE7272A2-A1FE-4205-B95F-5F5AE7F07A4B", 51936, 1397667920, "392873", 1397667920, "392873", null, "20", "14063017", "04-08-1963", "300383", "3417905", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51937, "B37A8DEC-1E85-457C-AEBD-BF33952FE15F", 51937, 1397667920, "392873", 1397667920, "392873", null, "21", "14063018", "07-20-1965", "372543", "3419145", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51938, "CA2484BB-2CEF-4850-ADD4-9BBBC1D5ABB6", 51938, 1397667920, "392873", 1397667920, "392873", null, "22", "14063028", "11-29-1963", "349446", "3418806", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51939, "ADEFB816-3E47-446F-93AC-458FF86DE27A", 51939, 1397667920, "392873", 1397667920, "392873", null, "23", "14063031", "01-14-1984", "372534", "3420461", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51940, "28014363-0D73-45FA-908C-CC47AE7CAA03", 51940, 1397667920, "392873", 1397667920, "392873", null, "24", "14064002", "09-11-1961", "8363", "3421229", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51941, "E0A92DFC-CB84-4C7C-8663-80B0CC71D7E0", 51941, 1397667920, "392873", 1397667920, "392873", null, "25", "14064004", "10-12-1963", "27801", "3424799", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51942, "B5E62731-6837-4B88-9000-AB758BB3ED7B", 51942, 1397667920, "392873", 1397667920, "392873", null, "26", "14064005", "09-05-1960", "25496", "3422907", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51943, "F9E3FF43-24B3-4EA5-A7CC-E8B6A2EF5008", 51943, 1397667920, "392873", 1397667920, "392873", null, "27", "14064008", "03-15-1963", "372525", "3421419", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51944, "C9A7E9D8-5300-4061-9F80-2DE1FEBAABDB", 51944, 1397667920, "392873", 1397667920, "392873", null, "28", "14064009", "09-19-1987", "281857", "3423061", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51945, "32B7E161-9F27-4AF8-84A0-C03A1B46F0EB", 51945, 1397667920, "392873", 1397667920, "392873", null, "29", "14064013", "02-02-1970", "366450", "3421700", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51946, "C197BEBD-CDFA-46A9-8867-612CFBEE43C6", 51946, 1397667920, "392873", 1397667920, "392873", null, "30", "14064015", "12-03-1988", "372699", "3424721", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51947, "F655B372-DAAC-44CB-9FAC-2A6F9237435D", 51947, 1397667921, "392873", 1397667921, "392873", null, "31", "14064022", "05-03-1967", "372596", "3424317", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51948, "C402EB6A-D23A-4E8B-8205-9A6D79527DFA", 51948, 1397667921, "392873", 1397667921, "392873", null, "32", "14064024", "05-28-1976", "279812", "3421665", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51949, "E4A16416-7E05-461C-91D5-B85502AE1F94", 51949, 1397667921, "392873", 1397667921, "392873", null, "33", "14064029", "11-02-1961", "29877", "3421364", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51950, "ECBC72DA-454B-41B9-900E-818ACC3059FF", 51950, 1397667921, "392873", 1397667921, "392873", null, "34", "14065001", "11-17-1962", "49395", "3424978", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51951, "75392AD6-E73A-46C1-A347-A6970E6C360B", 51951, 1397667921, "392873", 1397667921, "392873", null, "35", "14065002", "07-24-1963", "316337", "3425317", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51952, "D92560BB-0C00-4B7D-B7F9-F5721884B5EF", 51952, 1397667921, "392873", 1397667921, "392873", null, "36", "14065004", "08-03-1950", "372137", "3426265", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51953, "7182FC50-4753-4321-BBDB-8D3807671B09", 51953, 1397667921, "392873", 1397667921, "392873", null, "37", "14065005", "09-27-1978", "32882", "3427559", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51954, "3FBC2974-4BD7-4E34-8F7E-CBB84857251E", 51954, 1397667921, "392873", 1397667921, "392873", null, "38", "14065006", "03-16-1961", "55953", "3425422", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51955, "4EC231BC-CB02-4296-8DF6-59F287AD3B10", 51955, 1397667921, "392873", 1397667921, "392873", null, "39", "14065007", "04-13-1967", "37128", "3426312", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51956, "584B3375-DDBC-4001-A238-19DA248AC13B", 51956, 1397667921, "392873", 1397667921, "392873", null, "40", "14065012", "07-24-1958", "6834", "3426577", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51957, "9E09E429-D287-4CE9-8B6F-38A4BF0F2E4B", 51957, 1397667921, "392873", 1397667921, "392873", null, "41", "14065014", "03-20-1970", "35068", "3425954", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51958, "044D24A9-E4BA-4EA5-B60D-D6572ED43255", 51958, 1397667921, "392873", 1397667921, "392873", null, "42", "14065015", "03-13-1968", "24835", "3425191", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51959, "58BD5C6B-B8C9-49DD-B329-A9B4CB558758", 51959, 1397667921, "392873", 1397667921, "392873", null, "43", "14065016", "04-17-1953", "51460", "3425780", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51960, "B9A43663-1F04-4702-AEC9-123E0723FDAB", 51960, 1397667921, "392873", 1397667921, "392873", null, "44", "14065024", "04-29-1953", "283781", "3426346", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51961, "39F5389A-8D6B-4081-8F79-95DCA98068D0", 51961, 1397667921, "392873", 1397667921, "392873", null, "45", "14065025", "11-02-1961", "276424", "3427682", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51962, "F5AF1FB6-F9DF-456D-A3D9-78511CCA9255", 51962, 1397667921, "392873", 1397667921, "392873", null, "46", "14065030", "01-29-1960", "372140", "3426298", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51963, "901F9DE6-0592-42C2-9958-24BB2D4E0E0D", 51963, 1397667921, "392873", 1397667921, "392873", null, "47", "14065031", "04-18-1969", "305845", "3426121", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51964, "052E6F0F-14E5-49B9-AE00-A8A39ABA78DC", 51964, 1397667921, "392873", 1397667921, "392873", null, "48", "14066002", "02-04-1958", "51268", "3431258", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51965, "BDDF4E1C-5443-4784-8763-D911829D531A", 51965, 1397667921, "392873", 1397667921, "392873", null, "49", "14066004", "07-22-1991", "262800", "3430500", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51966, "F63926F2-2ACB-4E61-99CE-80E40E577E80", 51966, 1397667921, "392873", 1397667921, "392873", null, "50", "14066007", "08-19-1960", "50884", "3428577", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51967, "9FB83BAC-50BB-4AE7-B4B0-E11048C27C8D", 51967, 1397667921, "392873", 1397667921, "392873", null, "51", "14066009", "04-21-1972", "28222", "3431006", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51968, "AFB65E2B-8E69-447B-A005-278F6D15D6E9", 51968, 1397667921, "392873", 1397667921, "392873", null, "52", "14066010", "04-04-1967", "329038", "3431352", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51969, "D9EF44D6-065B-424E-82D5-AE13744BDF68", 51969, 1397667921, "392873", 1397667921, "392873", null, "53", "14066011", "08-19-1980", "307484", "3428436", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51970, "A0859C28-AC9D-4714-A6A3-94C2521E059E", 51970, 1397667921, "392873", 1397667921, "392873", null, "54", "14066015", "01-13-1994", "372683", "3430794", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51971, "1E0A9BAA-0300-4674-8B7D-C6F80E4445C9", 51971, 1397667921, "392873", 1397667921, "392873", null, "55", "14066018", "08-08-1976", "361751", "3428444", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51972, "01224185-0C20-44DB-ADE6-67C1EA0E2490", 51972, 1397667921, "392873", 1397667921, "392873", null, "56", "14066019", "08-07-1964", "24674", "3430414", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51973, "1D977E8D-650A-465F-8BA8-45C3548E0291", 51973, 1397667921, "392873", 1397667921, "392873", null, "57", "14066020", "07-17-1990", "372682", "3430829", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51974, "DDDE96AB-E248-457A-8F94-452BC7370D55", 51974, 1397667921, "392873", 1397667921, "392873", null, "58", "14066022", "01-02-1965", "21205", "3430366", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51975, "3AA75BCE-90DC-43B7-AF7B-CCC8BF3B2A9C", 51975, 1397667921, "392873", 1397667921, "392873", null, "59", "14066023", "02-19-1957", "7259", "3428556", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51976, "D53AF567-2B21-4414-9CEC-F250F4944CBF", 51976, 1397667921, "392873", 1397667921, "392873", null, "60", "14066026", "12-26-1968", "335110", "3428472", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51977, "2FF804F2-0899-4CF7-8BA2-119DD8845A68", 51977, 1397667921, "392873", 1397667921, "392873", null, "61", "14066033", "08-04-1988", "372493", "3430624", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51978, "9B7F069C-3457-4F89-AB2B-198F966A3332", 51978, 1397667921, "392873", 1397667921, "392873", null, "62", "14066034", "11-12-1964", "364036", "3429133", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51979, "6EC4EB54-83EF-4D43-8943-73635A7101FA", 51979, 1397667921, "392873", 1397667921, "392873", null, "63", "14067004", "12-19-1964", "307100", "3433919", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51980, "F6C0A0CB-4468-4C7C-9CD3-FE802DED2273", 51980, 1397667921, "392873", 1397667921, "392873", null, "64", "14067005", "11-13-1952", "371354", "3434154", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51981, "7D24BC11-F5B4-43B6-8F4A-32C3FCD5A9D4", 51981, 1397667921, "392873", 1397667921, "392873", null, "65", "14067007", "04-20-1981", "368514", "3433678", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51982, "384A2572-62B2-4E3F-916E-E427BE7880A8", 51982, 1397667921, "392873", 1397667921, "392873", null, "66", "14067008", "03-21-1980", "320879", "3434328", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51983, "46910B42-C76D-4159-9A60-F85D6D57D238", 51983, 1397667921, "392873", 1397667921, "392873", null, "67", "14067009", "07-30-1979", "309300", "3434456", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51984, "8523FF76-6D52-40EF-A26C-EB5875703692", 51984, 1397667921, "392873", 1397667921, "392873", null, "68", "14067012", "05-11-1962", "372327", "3434483", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51985, "4A74BE93-0B58-4CF7-9877-45A03E39EE3F", 51985, 1397667921, "392873", 1397667921, "392873", null, "69", "14067013", "12-02-1962", "40235", "3434339", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51986, "B08B5F4F-59DE-473D-8C89-617E6E38FE96", 51986, 1397667921, "392873", 1397667921, "392873", null, "70", "14067015", "07-19-1956", "372676", "3431867", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51987, "2D9A073D-2B85-46A3-A23B-805D65BFAD7C", 51987, 1397667921, "392873", 1397667921, "392873", null, "71", "14067016", "03-28-1977", "28619", "3433366", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51988, "B3A01CD5-7971-44CD-B381-81D2D758513B", 51988, 1397667921, "392873", 1397667921, "392873", null, "72", "14067018", "04-09-1975", "324253", "3432592", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51989, "4C99932C-1449-48BC-BAE5-E2B9EB510D45", 51989, 1397667921, "392873", 1397667921, "392873", null, "73", "14067021", "01-10-1969", "317787", "3433427", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51990, "5A437858-5A57-4B47-8DBA-B1AA21317709", 51990, 1397667921, "392873", 1397667921, "392873", null, "74", "14067023", "03-27-1964", "35160", "3434934", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51991, "F137F4F7-8AEF-4E9A-BB46-B019240B77D2", 51991, 1397667921, "392873", 1397667921, "392873", null, "75", "14067026", "06-19-1978", "296854", "3434507", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51992, "27CE3D8D-7C50-4D26-8D4D-EFF39A86852B", 51992, 1397667921, "392873", 1397667921, "392873", null, "76", "14067028", "06-14-1962", "362551", "3435016", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51993, "DFC5F791-8C0B-4C52-8506-F160C55DDB88", 51993, 1397667921, "392873", 1397667921, "392873", null, "77", "14067030", "05-24-1957", "325931", "3434006", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51994, "F60128EC-EE4C-4CFD-A46B-6D88C1991DC6", 51994, 1397667921, "392873", 1397667921, "392873", null, "78", "14068005", "02-12-1962", "41508", "3436844", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51995, "17A0C8EA-1300-4F34-9D51-EF3293720DE0", 51995, 1397667921, "392873", 1397667921, "392873", null, "79", "14068006", "05-15-1969", "26216", "3435121", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51996, "7B325F05-7859-4DA2-A92B-52059745A6D6", 51996, 1397667921, "392873", 1397667921, "392873", null, "80", "14068008", "03-01-1967", "21416", "3435633", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51997, "A2169593-D56D-436D-8C92-4035F0261DFD", 51997, 1397667921, "392873", 1397667921, "392873", null, "81", "14068009", "06-13-1973", "14999", "3435547", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51998, "B65CD929-7141-4201-85BE-562DACCD7940", 51998, 1397667921, "392873", 1397667921, "392873", null, "82", "14068012", "03-11-1962", "357511", "3436395", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 51999, "B73B6280-BEC2-4C39-8505-AB0E5699470D", 51999, 1397667921, "392873", 1397667921, "392873", null, "83", "14069001", "04-06-1958", "27442", "3437410", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52000, "4ACA0535-5781-4526-B982-AD993C4373BE", 52000, 1397667921, "392873", 1397667921, "392873", null, "84", "14069004", "02-20-1950", "11166", "3437899", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52001, "BA990F58-C8A1-4E12-98E8-A38D3EC7C82A", 52001, 1397667921, "392873", 1397667921, "392873", null, "85", "14069005", "12-27-1979", "372757", "3438256", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52002, "D746504D-1DC0-40E4-8A9B-0DB2CDFA5E2C", 52002, 1397667921, "392873", 1397667921, "392873", null, "86", "14070001", "12-18-1940", "316167", "3439495", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52003, "2B166BF3-E92C-4FDD-ADCE-64F5B7333FC6", 52003, 1397667921, "392873", 1397667921, "392873", null, "87", "14070002", "07-20-1960", "335058", "3440374", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52004, "96943F52-75A3-4B53-A9A6-74ED120FA36F", 52004, 1397667921, "392873", 1397667921, "392873", null, "88", "14070003", "11-06-1952", "20970", "3439418", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52005, "07793DFE-D9AE-4CD8-A939-AB3B78582FAF", 52005, 1397667921, "392873", 1397667921, "392873", null, "89", "14070004", "08-29-1955", "371044", "3441012", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52006, "2993F6D7-5654-47F4-B972-35B656B32052", 52006, 1397667921, "392873", 1397667921, "392873", null, "90", "14070006", "07-22-1962", "28786", "3441300", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52007, "35843EBE-651D-4372-AD0A-451093B9E092", 52007, 1397667921, "392873", 1397667921, "392873", null, "91", "14070007", "09-25-1985", "327076", "3439776", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52008, "F1D56E26-1114-44F3-B8EA-9C5951272A87", 52008, 1397667921, "392873", 1397667921, "392873", null, "92", "14070008", "01-20-1950", "335887", "3440104", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52009, "F0983719-9D3B-419A-928B-CFEF39496B12", 52009, 1397667921, "392873", 1397667921, "392873", null, "93", "14070009", "01-21-1969", "351158", "3439149", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52010, "4D6BE07E-112D-4B38-A97E-7AD88D173E9D", 52010, 1397667921, "392873", 1397667921, "392873", null, "94", "14070012", "10-09-1959", "311961", "3440860", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52011, "10697D36-AF76-4C53-AF43-CB588BDF7517", 52011, 1397667921, "392873", 1397667921, "392873", null, "95", "14070015", "09-02-1943", "7235", "3439437", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52012, "0CD33AF9-0E18-425F-B664-E660692CE703", 52012, 1397667921, "392873", 1397667921, "392873", null, "96", "14070016", "05-24-1957", "363841", "3439881", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52013, "AD340A31-214A-4243-898C-F6C2F3E87ABD", 52013, 1397667921, "392873", 1397667921, "392873", null, "97", "14070017", "12-05-1968", "372770", "3439190", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52014, "C96F5791-0243-4928-AFA0-F157DB367CF5", 52014, 1397667921, "392873", 1397667921, "392873", null, "98", "14070019", "06-17-1964", "31474", "3440489", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52015, "0BFBC4DF-1512-44D0-81FC-91172A14E3C3", 52015, 1397667921, "392873", 1397667921, "392873", null, "99", "14070020", "04-07-1988", "371887", "3439217", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52016, "E2F41B50-FE62-4584-B203-833FBAD91779", 52016, 1397667921, "392873", 1397667921, "392873", null, "100", "14070022", "05-30-1960", "38533", "3439879", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52017, "70816D0F-48CB-4297-8409-751C42B5D7DC", 52017, 1397667921, "392873", 1397667921, "392873", null, "101", "14070025", "11-28-1978", "284963", "3442012", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52018, "2EE15F89-5497-497A-94FB-145CF53FBA72", 52018, 1397667921, "392873", 1397667921, "392873", null, "102", "14070029", "12-19-1954", "363686", "3441280", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52019, "1481B0C4-8F43-4F8D-95E9-8E0CF82768A8", 52019, 1397667921, "392873", 1397667921, "392873", null, "103", "14070031", "08-01-1985", "358521", "3439173", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52020, "4AE5C02D-FA9B-4911-BEA5-6D8BB4257012", 52020, 1397667921, "392873", 1397667921, "392873", null, "104", "14070032", "11-01-1961", "25329", "3439873", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52021, "AC03F32D-9539-4AF7-8F77-9188407957FD", 52021, 1397667921, "392873", 1397667921, "392873", null, "105", "14070034", "02-06-1974", "372598", "3442349", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52022, "D4A41EE5-3455-4710-9E41-8EFAD7ABCBAB", 52022, 1397667921, "392873", 1397667921, "392873", null, "106", "14070035", "08-27-1952", "338986", "3441593", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52023, "2F16B532-3FB9-44DB-A9C8-F9C9D9993F33", 52023, 1397667921, "392873", 1397667921, "392873", null, "107", "14071002", "12-15-1975", "274952", "3445608", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52024, "4C37C968-B2B6-47AB-AA23-B041ABDF7A0A", 52024, 1397667921, "392873", 1397667921, "392873", null, "108", "14071003", "10-18-1974", "12209", "3443975", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52025, "5C2ADCF0-4000-413E-ACF7-01A242854A09", 52025, 1397667921, "392873", 1397667921, "392873", null, "109", "14071004", "07-12-1962", "312258", "3443223", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52026, "6BBD4E97-BA2F-4339-BAD2-13B1D3FF8539", 52026, 1397667921, "392873", 1397667921, "392873", null, "110", "14071006", "08-22-1944", "372397", "3446198", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52027, "D07B70A7-2B76-40BA-B954-15D3C534881D", 52027, 1397667921, "392873", 1397667921, "392873", null, "111", "14071009", "07-29-1979", "55328", "3443233", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52028, "D78C679C-2D09-4B72-B3F9-DCF75E61AB64", 52028, 1397667921, "392873", 1397667921, "392873", null, "112", "14071010", "01-16-1970", "367692", "3445124", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52029, "8B6DD9C0-F9B3-40F4-BE44-8FB3EF6D40B2", 52029, 1397667921, "392873", 1397667921, "392873", null, "113", "14071011", "07-01-1984", "372395", "3442940", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52030, "4B2B2985-0A6C-4BC0-A837-BBA2093D747D", 52030, 1397667921, "392873", 1397667921, "392873", null, "114", "14071013", "09-19-1989", "366211", "3444941", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52031, "F1932C19-F403-45FA-810B-94D33A55CD8C", 52031, 1397667921, "392873", 1397667921, "392873", null, "115", "14071014", "08-05-1952", "51670", "3443206", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52032, "E3548901-BD41-41C9-88AC-87D2C606F9B4", 52032, 1397667921, "392873", 1397667921, "392873", null, "116", "14071015", "09-28-1948", "43775", "3443456", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52033, "9E00F51D-D5A6-429D-95BA-8D0D5B94C1D9", 52033, 1397667921, "392873", 1397667921, "392873", null, "117", "14071016", "03-07-1986", "14150", "3445428", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52034, "5E2D124E-BCE5-4B0D-B7A3-E2E99ADCC8A7", 52034, 1397667921, "392873", 1397667921, "392873", null, "118", "14071018", "03-25-1984", "273862", "3445675", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52035, "A4A8E498-7138-4151-B309-48ADC7E488D9", 52035, 1397667921, "392873", 1397667921, "392873", null, "119", "14071019", "10-17-1974", "288835", "3445728", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52036, "30D1F597-DB9E-4167-BD9D-36D9B344E037", 52036, 1397667921, "392873", 1397667921, "392873", null, "120", "14071020", "04-21-1994", "372803", "3442796", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52037, "6CB2E53C-94D7-4C10-9BF9-B284532C4897", 52037, 1397667921, "392873", 1397667921, "392873", null, "121", "14071023", "03-17-1967", "361692", "3443666", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52038, "DE255D94-7726-453F-8907-ED12ECEEC7A7", 52038, 1397667921, "392873", 1397667921, "392873", null, "122", "14071024", "01-31-1965", "13751", "3442902", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52039, "54580C87-4CE3-40BE-AF1D-8C1313FA3B0C", 52039, 1397667921, "392873", 1397667921, "392873", null, "123", "14071027", "01-11-1969", "52509", "3444205", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52040, "138947E7-D156-431A-BAE0-574105186D89", 52040, 1397667921, "392873", 1397667921, "392873", null, "124", "14071030", "05-09-1985", "371692", "3442718", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52041, "618C9CA3-24D5-4C6F-8338-428B170E7400", 52041, 1397667921, "392873", 1397667921, "392873", null, "125", "14071033", "05-05-1978", "38546", "3443436", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52042, "FD0C1752-6AF5-4B7E-A17B-DFD7353AB768", 52042, 1397667921, "392873", 1397667921, "392873", null, "126", "14071034", "09-24-1976", "16604", "3444200", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52043, "E15DE6CE-EA32-416A-AE46-5B5256386A40", 52043, 1397667921, "392873", 1397667921, "392873", null, "127", "14071037", "02-18-1980", "372811", "3443966", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52044, "11253E74-3273-4E02-84CF-8B6D213531D1", 52044, 1397667921, "392873", 1397667921, "392873", null, "128", "14071040", "06-29-1972", "298113", "3443003", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52045, "DE7FE815-DD60-4BFB-8F8A-2E89F77BA80A", 52045, 1397667921, "392873", 1397667921, "392873", null, "129", "14071042", "10-30-1959", "45969", "3443660", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52046, "932CA61A-A891-4F02-9707-ED64239254D7", 52046, 1397667921, "392873", 1397667921, "392873", null, "130", "14072001", "02-27-1988", "372822", "3446627", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52047, "9EA96490-304D-403F-A8A6-04A4B63DE5E9", 52047, 1397667921, "392873", 1397667921, "392873", null, "131", "14072002", "05-16-1970", "349826", "3447259", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52048, "98E042E1-1074-43BB-8537-C0709F7AE0A0", 52048, 1397667921, "392873", 1397667921, "392873", null, "132", "14072004", "09-08-1957", "40156", "3447587", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52049, "7FE87FF6-9093-40B9-8112-B01CA99466B3", 52049, 1397667921, "392873", 1397667921, "392873", null, "133", "14072007", "04-02-1962", "31101", "3448510", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52050, "E2D65749-0281-469E-B951-22B48BC4BB2E", 52050, 1397667921, "392873", 1397667921, "392873", null, "134", "14072008", "04-10-1969", "21855", "3448567", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52051, "61A7C973-EF6B-44D5-955F-A3B4B60FFF9C", 52051, 1397667921, "392873", 1397667921, "392873", null, "135", "14072011", "06-08-1967", "289202", "3447206", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52052, "A63A41FA-AD5C-4D91-B33C-A5F8583907C7", 52052, 1397667921, "392873", 1397667921, "392873", null, "136", "14072012", "09-20-1956", "38836", "3446870", null ]
+, [ 52053, "235A37F7-A584-4342-9A67-D19D67CD2515", 52053, 1397667921, "392873", 1397667921, "392873", null, "137", "14072013", "03-06-1960", "372565", "3446973", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52054, "A552FD56-5D5B-4CD0-8BC7-D65583276EF0", 52054, 1397667921, "392873", 1397667921, "392873", null, "138", "14072014", "01-13-1963", "319376", "3448157", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52055, "CFEF869F-75BA-49A0-93F5-DA7A9A63E0C7", 52055, 1397667921, "392873", 1397667921, "392873", null, "139", "14072016", "02-28-1967", "372844", "3448971", "Please call 311 between 9:30AM and 5PM, Mon to Fri" ]
+, [ 52056, "0B01FD99-BFB5-44DD-BD04-47D8465D1960", 52056, 1397667921, "392873", 1397667921, "392873", null, "140", "14072017", "05-12-1949", "280228", "3448740", null ]
+, [ 52057, "4C9C00EA-E59F-41B5-A57F-13960221866A", 52057, 1397667921, "392873", 1397667921, "392873", null, "141", "14072018", "11-22-1950", "39958", "3446974", null ]
+, [ 52058, "71B759A9-6F84-4749-82A0-2860324E39D4", 52058, 1397667921, "392873", 1397667921, "392873", null, "142", "14072019", "05-19-1982", "279237", "3446725", null ]
+, [ 52059, "FDA29646-6B83-4DC5-A9B8-07F4A6463F86", 52059, 1397667921, "392873", 1397667921, "392873", null, "143", "14072020", "06-18-1977", "372795", "3447789", null ]
+, [ 52060, "52584E89-BB91-442B-9DA5-2BCA363DAB2F", 52060, 1397667921, "392873", 1397667921, "392873", null, "144", "14072021", "06-04-1920", "309467", "3447914", null ]
+, [ 52061, "C3A635FC-55D1-48DC-91DC-B42276A4407F", 52061, 1397667921, "392873", 1397667921, "392873", null, "145", "14072022", "10-20-1959", "43864", "3446418", null ]
+, [ 52062, "CE8F9B2A-1693-4EC0-B8BC-2495075631F6", 52062, 1397667921, "392873", 1397667921, "392873", null, "146", "14072023", "11-13-1975", "356068", "3448491", null ]
+, [ 52063, "5B170EBE-8673-4987-B3DD-775FB222E6F8", 52063, 1397667921, "392873", 1397667921, "392873", null, "147", "14072024", "03-16-1994", "372833", "3448405", null ]
+, [ 52064, "D638638F-CECC-4372-AE70-68216441A518", 52064, 1397667921, "392873", 1397667921, "392873", null, "148", "14072026", "07-26-1958", "44543", "3447807", null ]
+, [ 52065, "DA6EFF64-B36C-4672-B652-10CCDBF7C3A2", 52065, 1397667921, "392873", 1397667921, "392873", null, "149", "14073002", "08-25-1963", "49104", "3450983", null ]
+, [ 52066, "7CD22A4B-CB8C-496E-863A-BD58241E74F4", 52066, 1397667921, "392873", 1397667921, "392873", null, "150", "14073004", "04-27-1973", "372858", "3450412", null ]
+, [ 52067, "B453EB22-8CC7-44C2-B9F6-EEC6CCD034EC", 52067, 1397667921, "392873", 1397667921, "392873", null, "151", "14073006", "11-13-1958", "10421", "3451523", null ]
+, [ 52068, "A80B07D9-2FDB-4BE1-9E34-4EAD5FE4E41A", 52068, 1397667921, "392873", 1397667921, "392873", null, "152", "14073007", "11-18-1948", "366483", "3452325", null ]
+, [ 52069, "3CB9536B-167D-46B8-B5A0-BE66A97DB9A0", 52069, 1397667921, "392873", 1397667921, "392873", null, "153", "14073008", "11-13-1974", "7219", "3449790", null ]
+, [ 52070, "7F4D985F-1A71-4C86-A82C-F1BDAC41C02B", 52070, 1397667921, "392873", 1397667921, "392873", null, "154", "14073010", "01-31-1957", "307590", "3450244", null ]
+, [ 52071, "0EB9A014-B8FB-4E1D-A90C-4EB9E3FE5360", 52071, 1397667921, "392873", 1397667921, "392873", null, "155", "14073011", "08-22-1963", "310981", "3451499", null ]
+, [ 52072, "AFB56D78-118A-49F4-BC96-DA4CEE75E783", 52072, 1397667921, "392873", 1397667921, "392873", null, "156", "14073013", "08-21-1983", "6125", "3451982", null ]
+, [ 52073, "9C44C9D5-4399-446D-96B4-16E9A3C1B4BA", 52073, 1397667921, "392873", 1397667921, "392873", null, "157", "14073014", "06-02-1941", "308828", "3449985", null ]
+, [ 52074, "3BBAD469-D49E-4F15-B1C2-252D230F3CB3", 52074, 1397667921, "392873", 1397667921, "392873", null, "158", "14073015", "05-26-1969", "37504", "3451022", null ]
+, [ 52075, "1B45D26B-463D-4E34-85E1-65BA1A29A4A5", 52075, 1397667921, "392873", 1397667921, "392873", null, "159", "14073016", "09-08-1957", "372769", "3450053", null ]
+, [ 52076, "D17EF506-6FDF-4FC1-BE40-426C9739FFBC", 52076, 1397667921, "392873", 1397667921, "392873", null, "160", "14073017", "08-15-1984", "366196", "3452175", null ]
+, [ 52077, "5DCE4FBF-0C3B-4A8A-BDBB-13BB1FC8569E", 52077, 1397667921, "392873", 1397667921, "392873", null, "161", "14073018", "03-04-1977", "16897", "3450114", null ]
+, [ 52078, "885138F8-E951-4451-BC15-9D8CD654D111", 52078, 1397667921, "392873", 1397667921, "392873", null, "162", "14073019", "09-09-1972", "302834", "3450190", null ]
+, [ 52079, "6527A51A-4E3D-4104-9674-236743719B40", 52079, 1397667921, "392873", 1397667921, "392873", null, "163", "14073020", "01-20-1993", "372884", "3452131", null ]
+, [ 52080, "5185BD74-676A-4B39-918C-F49FB399A7FB", 52080, 1397667921, "392873", 1397667921, "392873", null, "164", "14073021", "05-09-1965", "371317", "3451058", null ]
+, [ 52081, "0B4D3032-989C-4528-87BB-26D128BD4F59", 52081, 1397667921, "392873", 1397667921, "392873", null, "165", "14073022", "11-01-1982", "304161", "3450511", null ]
+, [ 52082, "8C35AF68-C7C0-4445-9F73-6F29BBBE88A3", 52082, 1397667921, "392873", 1397667921, "392873", null, "166", "14073023", "04-13-1947", "369104", "3452088", null ]
+, [ 52083, "AD4EBC35-EC62-421E-AA4C-F4A99FE3569F", 52083, 1397667921, "392873", 1397667921, "392873", null, "167", "14073025", "04-12-1960", "372550", "3450526", null ]
+, [ 52084, "361C07B3-D40C-49A7-BA58-8CD3089A030D", 52084, 1397667921, "392873", 1397667921, "392873", null, "168", "14074002", "04-27-1985", "320175", "3453015", null ]
+, [ 52085, "59F35629-B860-4DEE-9B96-F7F6F4C4E694", 52085, 1397667921, "392873", 1397667921, "392873", null, "169", "14074004", "11-22-1983", "296333", "3454422", null ]
+, [ 52086, "5EBDE132-1A93-4727-BB6A-EF96D9248447", 52086, 1397667921, "392873", 1397667921, "392873", null, "170", "14074005", "03-23-1967", "372887", "3453978", null ]
+, [ 52087, "4F7DEF2F-DA97-427B-B045-5B9F1B077315", 52087, 1397667921, "392873", 1397667921, "392873", null, "171", "14074007", "07-08-1973", "330538", "3453623", null ]
+, [ 52088, "872A48D4-E41D-4CE8-8EFB-098BF917806C", 52088, 1397667921, "392873", 1397667921, "392873", null, "172", "14074008", "09-25-1958", "43857", "3455220", null ]
+, [ 52089, "745F18FE-C96A-4115-A140-64AF54876606", 52089, 1397667921, "392873", 1397667921, "392873", null, "173", "14074010", "09-10-1971", "313808", "3455525", null ]
+, [ 52090, "4898DCC0-EB8F-42F0-B58E-6205D83DF1F3", 52090, 1397667921, "392873", 1397667921, "392873", null, "174", "14074011", "02-12-1972", "45041", "3454993", null ]
+, [ 52091, "BDCB9319-AC74-46CD-9E09-4293CA81F7DA", 52091, 1397667921, "392873", 1397667921, "392873", null, "175", "14074012", "10-08-1979", "302001", "3454782", null ]
+, [ 52092, "83331DF5-A7CB-45CC-8D1F-CE918C658EAD", 52092, 1397667921, "392873", 1397667921, "392873", null, "176", "14074014", "08-18-1977", "337667", "3455305", null ]
+, [ 52093, "119438FA-3BE2-41E6-A57C-70DE671380FD", 52093, 1397667921, "392873", 1397667921, "392873", null, "177", "14074016", "12-19-1959", "291064", "3454437", null ]
+, [ 52094, "149A3047-743A-4C8E-A7A8-ED1A9C820F28", 52094, 1397667921, "392873", 1397667921, "392873", null, "178", "14074017", "04-06-1962", "372908", "3453951", null ]
+, [ 52095, "4D568B05-AF21-4784-B757-9F7F31ACDEA1", 52095, 1397667921, "392873", 1397667921, "392873", null, "179", "14075002", "06-25-1971", "357972", "3457400", null ]
+, [ 52096, "5919147A-ED95-4B23-8DCE-8F7E735AEB20", 52096, 1397667921, "392873", 1397667921, "392873", null, "180", "14075005", "06-10-1965", "325954", "3458199", null ]
+, [ 52097, "D21D91AA-3C5B-482C-8785-DE3D4BB7B2BC", 52097, 1397667921, "392873", 1397667921, "392873", null, "181", "14075007", "12-20-1955", "372927", "3457119", null ]
+, [ 52098, "C934E8B8-4594-480D-8CFD-524FAB9ADB46", 52098, 1397667921, "392873", 1397667921, "392873", null, "182", "14075009", "12-26-1958", "336923", "3456542", null ]
+, [ 52099, "60579F07-2B49-4C42-B7E2-1D1913C2FF66", 52099, 1397667921, "392873", 1397667921, "392873", null, "183", "14075010", "05-15-1963", "295550", "3457712", null ]
+, [ 52100, "6390CBE2-61FD-4182-BB5D-6BA2230EB5D3", 52100, 1397667921, "392873", 1397667921, "392873", null, "184", "14076001", "07-29-1978", "372377", "3460079", null ]
+, [ 52101, "B1666435-D8C7-4C3D-950F-CA594F1F5EC1", 52101, 1397667921, "392873", 1397667921, "392873", null, "185", "14076003", "04-21-1975", "33023", "3458550", null ]
+, [ 52102, "15C4F67A-1125-4EF4-A60B-8EF520142FB7", 52102, 1397667921, "392873", 1397667921, "392873", null, "186", "14076004", "05-13-1957", "305288", "3460139", null ]
+, [ 52103, "95C97CFE-83A3-4C0C-8F05-B8A3C536D8B5", 52103, 1397667921, "392873", 1397667921, "392873", null, "187", "14076005", "03-06-1973", "372977", "3459133", null ]
+, [ 52104, "AB1245D0-FCEE-4D55-AFD6-22D8644DA733", 52104, 1397667921, "392873", 1397667921, "392873", null, "188", "14076007", "10-07-1953", "11967", "3458434", null ]
+, [ 52105, "CB5E24AF-0425-45A2-9900-C1BFEA9044C3", 52105, 1397667921, "392873", 1397667921, "392873", null, "189", "14076009", "11-13-1961", "351559", "3459714", null ]
+, [ 52106, "0A4916F7-6E7A-4EA1-9F6A-00E0375499CE", 52106, 1397667921, "392873", 1397667921, "392873", null, "190", "14077001", "02-19-1947", "372726", "3463164", null ]
+, [ 52107, "B98127C7-18BE-4F63-860C-96EF7A078A0C", 52107, 1397667921, "392873", 1397667921, "392873", null, "191", "14077002", "01-09-1953", "26196", "3463047", null ]
+, [ 52108, "00AFD294-7F57-4A38-93E9-1E927B06369C", 52108, 1397667921, "392873", 1397667921, "392873", null, "192", "14077003", "06-20-1972", "372922", "3461532", null ]
+, [ 52109, "B10F00CA-0C16-4D11-802F-C6389C1B94FB", 52109, 1397667921, "392873", 1397667921, "392873", null, "193", "14077005", "05-18-1985", "314939", "3461903", null ]
+, [ 52110, "41E61F9D-3ECA-4144-9E51-849E438F6F8D", 52110, 1397667921, "392873", 1397667921, "392873", null, "194", "14077006", "03-16-1939", "37261", "3461873", null ]
+, [ 52111, "C1CA1CA0-169E-4ABB-ADFC-7A71F144A958", 52111, 1397667921, "392873", 1397667921, "392873", null, "195", "14077008", "03-16-1953", "372893", "3460955", null ]
+, [ 52112, "77244818-9922-4ECF-8741-8B52420D0C7E", 52112, 1397667921, "392873", 1397667921, "392873", null, "196", "14077011", "06-01-1970", "301717", "3460736", null ]
+, [ 52113, "54FD6C0E-9BFD-4B4E-AF91-E6E304399B43", 52113, 1397667921, "392873", 1397667921, "392873", null, "197", "14077013", "11-27-1985", "372955", "3460777", null ]
+, [ 52114, "DE1776B3-CF5C-476D-B14C-E4F46E3BDCA2", 52114, 1397667921, "392873", 1397667921, "392873", null, "198", "14077014", "04-07-1970", "333771", "3461753", null ]
+, [ 52115, "AAF15038-2427-40D9-9D01-2F2E9DB05F55", 52115, 1397667921, "392873", 1397667921, "392873", null, "199", "14077016", "06-17-1952", "43156", "3461697", null ]
+, [ 52116, "1FD3BAF7-97A5-4CE1-A306-6734F6C481C9", 52116, 1397667921, "392873", 1397667921, "392873", null, "200", "14077017", "07-28-1980", "329214", "3462321", null ]
+, [ 52117, "619F488E-51DA-434E-8670-C1DDFA99D399", 52117, 1397667921, "392873", 1397667921, "392873", null, "201", "14077020", "10-15-1947", "33167", "3463737", null ]
+, [ 52118, "5192CBC9-905C-44B3-8EC9-507D00E95CB0", 52118, 1397667921, "392873", 1397667921, "392873", null, "202", "14077021", "07-17-1982", "372973", "3461323", null ]
+, [ 52119, "68F27554-986D-4CEB-9180-19D4C6E7E107", 52119, 1397667921, "392873", 1397667921, "392873", null, "203", "14077022", "06-21-1953", "34951", "3461721", null ]
+, [ 52120, "A25A68D8-B372-496B-8DD6-4FCF7D868AD5", 52120, 1397667921, "392873", 1397667921, "392873", null, "204", "14077023", "11-28-1958", "32520", "3461062", null ]
+, [ 52121, "4123FE5F-A772-4FA7-8AF6-5A470FBDFB4D", 52121, 1397667921, "392873", 1397667921, "392873", null, "205", "14077024", "07-26-1985", "372105", "3460717", null ]
+, [ 52122, "C2CD00E0-3308-46C4-A87E-09D651733DAA", 52122, 1397667921, "392873", 1397667921, "392873", null, "206", "14077025", "10-20-1962", "37986", "3464026", null ]
+, [ 52123, "A611FFA2-B0A3-4681-B8D0-54670171180B", 52123, 1397667921, "392873", 1397667921, "392873", null, "207", "14077026", "10-25-1956", "370470", "3463028", null ]
+, [ 52124, "E4D2EAEA-D018-46EB-AB1F-7956A0E1CE70", 52124, 1397667921, "392873", 1397667921, "392873", null, "208", "14078002", "10-13-1957", "300939", "3467230", null ]
+, [ 52125, "30AE073E-ED7E-4A4B-A09E-DB7EEEE3AB8F", 52125, 1397667921, "392873", 1397667921, "392873", null, "209", "14078003", "04-12-1959", "340551", "3466414", null ]
+, [ 52126, "3714D0DE-1A5C-4E5D-98CB-96D4877C0EFB", 52126, 1397667921, "392873", 1397667921, "392873", null, "210", "14078004", "01-29-1965", "357835", "3465258", null ]
+, [ 52127, "D1C04330-8559-4BA3-BF34-86F28402DD7A", 52127, 1397667921, "392873", 1397667921, "392873", null, "211", "14078006", "01-02-1944", "356129", "3465257", null ]
+, [ 52128, "0839B4D7-14F6-4839-81A7-CA70D826D3DD", 52128, 1397667921, "392873", 1397667921, "392873", null, "212", "14078007", "08-18-1952", "53148", "3465244", null ]
+, [ 52129, "3345A191-E106-49E0-8431-EB10F7450CF8", 52129, 1397667921, "392873", 1397667921, "392873", null, "213", "14078008", "10-15-1968", "320427", "3464791", null ]
+, [ 52130, "E46A65B9-6E1E-44C4-AE75-9B2D47CEBF93", 52130, 1397667921, "392873", 1397667921, "392873", null, "214", "14078009", "05-31-1961", "366788", "3464760", null ]
+, [ 52131, "903CA8FE-E972-4D5A-ABD7-998E173B4B9C", 52131, 1397667921, "392873", 1397667921, "392873", null, "215", "14078010", "03-05-1952", "366921", "3465095", null ]
+, [ 52132, "8A2BC17F-7C88-4193-9FA8-2EB24BC499EC", 52132, 1397667921, "392873", 1397667921, "392873", null, "216", "14078011", "12-06-1951", "35553", "3465440", null ]
+, [ 52133, "BD0A7418-B4BF-4F08-955E-E97BA67219AC", 52133, 1397667921, "392873", 1397667921, "392873", null, "217", "14078012", "12-05-1994", "372988", "3464899", null ]
+, [ 52134, "ECD904EE-35DF-4258-9512-4CA250061981", 52134, 1397667921, "392873", 1397667921, "392873", null, "218", "14078013", "07-05-1957", "362884", "3465642", null ]
+, [ 52135, "2F39B27C-A999-4304-984E-3FFED5FD3AE9", 52135, 1397667921, "392873", 1397667921, "392873", null, "219", "14078014", "12-20-1958", "315358", "3465564", null ]
+, [ 52136, "3F0E5B45-123D-43B5-8CD4-69435D3ABED5", 52136, 1397667921, "392873", 1397667921, "392873", null, "220", "14078015", "06-26-1958", "36909", "3467989", null ]
+, [ 52137, "1EB43674-D3CB-4AD8-B2FB-36D430590B3B", 52137, 1397667921, "392873", 1397667921, "392873", null, "221", "14078016", "01-03-1989", "373018", "3467765", null ]
+, [ 52138, "F6B44F9A-3585-41DC-AE0F-08F2B27A5140", 52138, 1397667921, "392873", 1397667921, "392873", null, "222", "14078018", "04-03-1978", "372979", "3465843", null ]
+, [ 52139, "7187F721-D72D-40CA-A3ED-21449D56AEC1", 52139, 1397667921, "392873", 1397667921, "392873", null, "223", "14078022", "09-09-1979", "294993", "3464719", null ]
+, [ 52140, "42E59128-2F1B-4AF3-9B42-37AA980DE385", 52140, 1397667921, "392873", 1397667921, "392873", null, "224", "14078024", "07-14-1949", "24893", "3465391", null ]
+, [ 52141, "6FADACA6-83ED-4930-BE5C-CFC45C3E84BA", 52141, 1397667921, "392873", 1397667921, "392873", null, "225", "14078025", "07-13-1954", "34782", "3465507", null ]
+, [ 52142, "F92F14BC-CB03-46B2-8B71-F5F04BAD0A02", 52142, 1397667921, "392873", 1397667921, "392873", null, "226", "14078026", "04-21-1954", "49290", "3466859", null ]
+, [ 52143, "E975F4B5-F227-4C6A-A3F9-691A1F2D0589", 52143, 1397667921, "392873", 1397667921, "392873", null, "227", "14078027", "07-10-1983", "311959", "3465714", null ]
+, [ 52144, "0EFA027A-F602-41B9-9126-8E0B6105EA14", 52144, 1397667921, "392873", 1397667921, "392873", null, "228", "14079002", "04-22-1964", "37673", "3468964", null ]
+, [ 52145, "E341D774-7406-4B68-8771-9A273E826655", 52145, 1397667921, "392873", 1397667921, "392873", null, "229", "14079003", "01-07-1955", "313348", "3468225", null ]
+, [ 52146, "154A4005-36CC-4D67-B768-570E11C4E54D", 52146, 1397667921, "392873", 1397667921, "392873", null, "230", "14079004", "10-20-1976", "350041", "3469881", null ]
+, [ 52147, "E76322B8-C300-4257-8EC5-C5345C8FABAD", 52147, 1397667921, "392873", 1397667921, "392873", null, "231", "14079005", "12-09-1967", "328038", "3470101", null ]
+, [ 52148, "6D12274A-80D3-4899-85C7-752460AA4D73", 52148, 1397667921, "392873", 1397667921, "392873", null, "232", "14079007", "01-14-1975", "23450", "3468966", null ]
+, [ 52149, "FD19F034-3B61-4E4D-877A-1944D0012210", 52149, 1397667921, "392873", 1397667921, "392873", null, "233", "14079008", "03-14-1989", "363326", "3468266", null ]
+, [ 52150, "DE5CB08C-11F1-4C32-9A5B-43127D2415C6", 52150, 1397667921, "392873", 1397667921, "392873", null, "234", "14079009", "07-28-1971", "363853", "3468302", null ]
+, [ 52151, "02B7B335-BC87-443B-8254-53D114375B66", 52151, 1397667921, "392873", 1397667921, "392873", null, "235", "14079010", "02-07-1988", "373022", "3468931", null ]
+, [ 52152, "54554B57-3889-47E2-9772-23BE78828621", 52152, 1397667921, "392873", 1397667921, "392873", null, "236", "14079011", "05-06-1964", "372907", "3469404", null ]
+, [ 52153, "898AEF00-B211-419F-BACD-791D420E76E7", 52153, 1397667921, "392873", 1397667921, "392873", null, "237", "14079012", "10-07-1967", "373032", "3470742", null ]
+, [ 52154, "645CF775-F84F-48C3-8E28-1EC51D5144CB", 52154, 1397667921, "392873", 1397667921, "392873", null, "238", "14079014", "01-19-1983", "373026", "3468968", null ]
+, [ 52155, "E14FB0E5-6196-4F5E-8C2D-04DFD14F3F9C", 52155, 1397667921, "392873", 1397667921, "392873", null, "239", "14079016", "12-03-1953", "9910", "3469432", null ]
+, [ 52156, "1D5BDA1C-1904-415A-A4D3-876B05C67E70", 52156, 1397667921, "392873", 1397667921, "392873", null, "240", "14079017", "11-09-1984", "288150", "3470513", null ]
+, [ 52157, "0719ED26-7D5D-4E91-A353-2D4EC44FFB08", 52157, 1397667921, "392873", 1397667921, "392873", null, "241", "14079018", "06-25-1965", "10111", "3470754", null ]
+, [ 52158, "FA5C1EE6-7D8F-435A-8C96-EF7D761A841F", 52158, 1397667921, "392873", 1397667921, "392873", null, "242", "14079020", "07-07-1946", "366807", "3468899", null ]
+, [ 52159, "7642E374-9DA1-4CAA-9BA2-16776F6BD4B0", 52159, 1397667921, "392873", 1397667921, "392873", null, "243", "14079021", "12-06-1965", "373019", "3470842", null ]
+, [ 52160, "D5E2E7BE-89FD-4C58-B6DC-06B4E2ED4414", 52160, 1397667921, "392873", 1397667921, "392873", null, "244", "14079022", "11-07-1973", "373027", "3469203", null ]
+, [ 52161, "322E77FC-D303-4C36-BAE8-890AAC3492EF", 52161, 1397667921, "392873", 1397667921, "392873", null, "245", "14079023", "08-10-1980", "372530", "3470482", null ]
+, [ 52162, "D516A06E-612A-4E39-B1AA-4F9F91332E14", 52162, 1397667921, "392873", 1397667921, "392873", null, "246", "14079024", "09-29-1961", "362667", "3469465", null ]
+, [ 52163, "A8622A1E-5A17-49C5-9F35-32784E19C3A0", 52163, 1397667921, "392873", 1397667921, "392873", null, "247", "14079026", "05-01-1956", "365765", "3468257", null ]
+, [ 52164, "A4B26404-AD98-421B-A18D-838488F4C924", 52164, 1397667921, "392873", 1397667921, "392873", null, "248", "14079027", "08-24-1945", "293925", "3468186", null ]
+, [ 52165, "4B1714F9-29D0-4E9F-A0B3-832FA45AE281", 52165, 1397667921, "392873", 1397667921, "392873", null, "249", "14079028", "11-23-1956", "40638", "3468874", null ]
+, [ 52166, "2B00AEA6-A2F8-4439-84D6-C258FEC54AEC", 52166, 1397667921, "392873", 1397667921, "392873", null, "250", "14079029", "08-16-1987", "357821", "3469226", null ]
+, [ 52167, "4658A0BB-97DA-47F5-903B-2EA2F923F738", 52167, 1397667921, "392873", 1397667921, "392873", null, "251", "14079030", "10-01-1943", "55229", "3470925", null ]
+, [ 52168, "E7ACEC73-CFEC-4DE5-A1BA-EA51BC4A3365", 52168, 1397667921, "392873", 1397667921, "392873", null, "252", "14080002", "11-15-1953", "323640", "3473641", null ]
+, [ 52169, "1F697F19-DA58-43A9-B070-83ABD9119597", 52169, 1397667921, "392873", 1397667921, "392873", null, "253", "14080003", "03-04-1989", "373061", "3474328", null ]
+, [ 52170, "D558AAEB-BF2C-4EFF-BE32-7ACCB190E9E9", 52170, 1397667921, "392873", 1397667921, "392873", null, "254", "14080004", "11-04-1963", "363999", "3474239", null ]
+, [ 52171, "377F8867-D28F-40A0-A73B-A526B65BF151", 52171, 1397667921, "392873", 1397667921, "392873", null, "255", "14080005", "07-21-1972", "358985", "3473048", null ]
+, [ 52172, "67B64FDF-4142-4A67-B5CC-673F8AABB06D", 52172, 1397667921, "392873", 1397667921, "392873", null, "256", "14080006", "11-10-1970", "338567", "3472602", null ]
+, [ 52173, "6EC36994-B457-4CC4-BB4F-683CB934E8B7", 52173, 1397667921, "392873", 1397667921, "392873", null, "257", "14080007", "02-08-1990", "311255", "3474697", null ]
+, [ 52174, "BC532B0E-C630-4E30-9457-E3A6F494428B", 52174, 1397667921, "392873", 1397667921, "392873", null, "258", "14080008", "07-16-1989", "373049", "3472947", null ]
+, [ 52175, "F3DE9DB7-00FD-47C5-BB9A-B789FF2319CF", 52175, 1397667921, "392873", 1397667921, "392873", null, "259", "14080010", "10-29-1944", "325830", "3472177", null ]
+, [ 52176, "D787F435-3130-40ED-8F94-CE37434F5B1E", 52176, 1397667921, "392873", 1397667921, "392873", null, "260", "14080011", "05-13-1962", "290553", "3473685", null ]
+, [ 52177, "554A8EEC-52FC-4B5B-930D-84DA8535EEEF", 52177, 1397667921, "392873", 1397667921, "392873", null, "261", "14080012", "08-30-1960", "48260", "3472638", null ]
+, [ 52178, "67D8BA85-72B7-48CF-A09A-223FA74DEA7E", 52178, 1397667921, "392873", 1397667921, "392873", null, "262", "14080013", "09-06-1981", "29074", "3473367", null ]
+, [ 52179, "A02CE348-F1A1-41F6-94ED-C69D31029775", 52179, 1397667921, "392873", 1397667921, "392873", null, "263", "14080015", "09-12-1954", "311482", "3473558", null ]
+, [ 52180, "080FAAE2-1C13-482C-BEC1-2272B523C6A9", 52180, 1397667921, "392873", 1397667921, "392873", null, "264", "14080016", "09-13-1972", "296162", "3472051", null ]
+, [ 52181, "A1348F7B-8269-4667-A538-B034068D4129", 52181, 1397667921, "392873", 1397667921, "392873", null, "265", "14080017", "10-16-1988", "372595", "3474055", null ]
+, [ 52182, "B791612F-3028-4E9F-99FF-8BD47F1C1E70", 52182, 1397667921, "392873", 1397667921, "392873", null, "266", "14080018", "10-10-1971", "6592", "3474425", null ]
+, [ 52183, "1FE37F3F-145F-4C2E-8BC2-002DBA7DA565", 52183, 1397667921, "392873", 1397667921, "392873", null, "267", "14080019", "10-02-1947", "373044", "3472951", null ]
+, [ 52184, "28C0DE57-7D17-4047-BC75-9B045A516A8F", 52184, 1397667921, "392873", 1397667921, "392873", null, "268", "14080020", "08-04-1956", "42362", "3473715", null ]
+, [ 52185, "1AAD3DFC-6634-4FB6-A23C-9DAE0820FB30", 52185, 1397667921, "392873", 1397667921, "392873", null, "269", "14080021", "09-17-1939", "368776", "3472902", null ]
+, [ 52186, "1851FFF5-49BA-484A-87DC-BF927D7947CC", 52186, 1397667921, "392873", 1397667921, "392873", null, "270", "14080022", "02-04-1988", "372739", "3474163", null ]
+, [ 52187, "F259D210-8C78-43A8-AE8B-71C097FBB04C", 52187, 1397667921, "392873", 1397667921, "392873", null, "271", "14080023", "10-31-1966", "301203", "3474612", null ]
+, [ 52188, "1933AB7C-ACB7-48BD-8BB0-D8EE069D0A2F", 52188, 1397667921, "392873", 1397667921, "392873", null, "272", "14080024", "07-11-1986", "373135", "3474236", null ]
+, [ 52189, "94DFE7D2-995C-443E-BE95-7F74D14C2267", 52189, 1397667921, "392873", 1397667921, "392873", null, "273", "14080025", "09-01-1964", "43318", "3474208", null ]
+, [ 52190, "64627F13-F54A-42B0-B982-DB7365CA1807", 52190, 1397667921, "392873", 1397667921, "392873", null, "274", "14080026", "04-30-1961", "314065", "3473386", null ]
+, [ 52191, "9CBFC255-263A-45CB-99CB-EE2D21613F67", 52191, 1397667921, "392873", 1397667921, "392873", null, "275", "14080027", "01-06-1949", "352039", "3471671", null ]
+, [ 52192, "00565F54-6EEB-4BF4-8247-9AD78A3166F5", 52192, 1397667921, "392873", 1397667921, "392873", null, "276", "14080028", "11-02-1978", "373038", "3471865", null ]
+, [ 52193, "B5856B2B-0AA7-40A0-98DB-5FD5F453416A", 52193, 1397667921, "392873", 1397667921, "392873", null, "277", "14080029", "03-08-1959", "49295", "3473429", null ]
+, [ 52194, "8FA5EB6A-2483-4B78-8718-DB30D62854BB", 52194, 1397667921, "392873", 1397667921, "392873", null, "278", "14080030", "10-28-1992", "356975", "3474005", null ]
+, [ 52195, "57874656-AE41-43B3-BF9C-71851197C4DC", 52195, 1397667921, "392873", 1397667921, "392873", null, "279", "14080031", "07-29-1973", "24123", "3473555", null ]
+, [ 52196, "B4C23B91-9254-449B-AAD9-A09BF01DA57D", 52196, 1397667921, "392873", 1397667921, "392873", null, "280", "14081003", "01-26-1985", "300189", "3478224", null ]
+, [ 52197, "9292F5A5-814F-426A-9118-907201572C61", 52197, 1397667921, "392873", 1397667921, "392873", null, "281", "14081004", "10-29-1945", "19181", "3477515", null ]
+, [ 52198, "A62F5483-14D3-4A33-A668-FB2FDEA7F6EF", 52198, 1397667921, "392873", 1397667921, "392873", null, "282", "14081005", "10-18-1952", "371699", "3476348", null ]
+, [ 52199, "AB98273E-9526-43CC-B01D-AA180D6AA00E", 52199, 1397667921, "392873", 1397667921, "392873", null, "283", "14081006", "02-16-1934", "367158", "3478379", null ]
+, [ 52200, "6E5F5450-C1C4-4367-A89C-2AB75138B821", 52200, 1397667921, "392873", 1397667921, "392873", null, "284", "14081007", "07-06-1979", "301147", "3476958", null ]
+, [ 52201, "B82AD591-BE11-4EEB-AFE0-FD615CF0884B", 52201, 1397667921, "392873", 1397667921, "392873", null, "285", "14081008", "08-25-1971", "21168", "3475923", null ]
+, [ 52202, "E8D2AC45-55C6-4D02-8592-13982FFB759A", 52202, 1397667921, "392873", 1397667921, "392873", null, "286", "14081009", "03-17-1965", "38093", "3477872", null ]
+, [ 52203, "C25D7564-E376-4204-A39E-A12DF3805F48", 52203, 1397667921, "392873", 1397667921, "392873", null, "287", "14081010", "12-23-1977", "369532", "3477384", null ]
+, [ 52204, "78F95DCD-8790-4941-B9E0-D32AE6E147A6", 52204, 1397667921, "392873", 1397667921, "392873", null, "288", "14081011", "10-28-1956", "297940", "3475415", null ]
+, [ 52205, "C5B1E2C6-B229-410E-A34E-AE1AE81195C7", 52205, 1397667921, "392873", 1397667921, "392873", null, "289", "14081012", "01-10-1980", "373176", "3476058", null ]
+, [ 52206, "1ACF1E38-EE3B-41D9-A1BD-2E772D7DA6FF", 52206, 1397667921, "392873", 1397667921, "392873", null, "290", "14081013", "12-18-1959", "47913", "3475770", null ]
+, [ 52207, "F621CD61-E5EC-4BB5-81C9-3A6FF6B1DA9F", 52207, 1397667921, "392873", 1397667921, "392873", null, "291", "14081014", "06-30-1976", "24655", "3475603", null ]
+, [ 52208, "CCA7D607-6AF7-46A7-A9E5-0BB9E50E23D0", 52208, 1397667921, "392873", 1397667921, "392873", null, "292", "14081015", "03-13-1991", "333492", "3475372", null ]
+, [ 52209, "3CC05A13-412F-4A22-8DC9-DC1B44CE629B", 52209, 1397667921, "392873", 1397667921, "392873", null, "293", "14081017", "03-16-1966", "309570", "3475451", null ]
+, [ 52210, "34A00AAA-0D9B-4E22-99A0-4FCE7269A984", 52210, 1397667921, "392873", 1397667921, "392873", null, "294", "14082001", "09-10-1983", "355208", "3479253", null ]
+, [ 52211, "29F9D586-286B-4520-BCB2-B74268DAFB0A", 52211, 1397667921, "392873", 1397667921, "392873", null, "295", "14082002", "10-22-1992", "370156", "3478806", null ]
+, [ 52212, "8A558BCB-8A73-4FCB-9617-C07D86E1AE95", 52212, 1397667921, "392873", 1397667921, "392873", null, "296", "14082004", "05-14-1976", "373101", "3479187", null ]
+, [ 52213, "3D41F481-C825-45D4-B66E-24471E0CA0F8", 52213, 1397667921, "392873", 1397667921, "392873", null, "297", "14082005", "11-04-1977", "329193", "3479749", null ]
+, [ 52214, "E5A01D74-3733-4FC0-B612-0C34D99C863C", 52214, 1397667921, "392873", 1397667921, "392873", null, "298", "14082006", "12-22-1979", "353861", "3478981", null ]
+, [ 52215, "83700370-B07A-4906-A480-6A895C66AA44", 52215, 1397667921, "392873", 1397667921, "392873", null, "299", "14082007", "08-06-1985", "312847", "3478994", null ]
+, [ 52216, "3F49C7BD-3BD7-4B13-BFA1-D6F5284BDDA3", 52216, 1397667921, "392873", 1397667921, "392873", null, "300", "14082008", "01-09-1952", "315943", "3478756", null ]
+, [ 52217, "4DA46C52-DF9E-4E1D-BD15-5769B997CB20", 52217, 1397667921, "392873", 1397667921, "392873", null, "301", "14082009", "01-29-1954", "46982", "3479134", null ]
+, [ 52218, "14F504D2-6C98-47E7-89D7-A1BB0B579603", 52218, 1397667921, "392873", 1397667921, "392873", null, "302", "14082010", "04-18-1972", "32240", "3480349", null ]
+, [ 52219, "8CA00EF3-AE32-4523-8698-87D6E99ABF22", 52219, 1397667921, "392873", 1397667921, "392873", null, "303", "14083003", "12-19-1956", "333460", "3482896", null ]
+, [ 52220, "C6D24A68-FB16-4A30-8E95-E02E4E843EF4", 52220, 1397667921, "392873", 1397667921, "392873", null, "304", "14083004", "12-21-1961", "26422", "3482674", null ]
+, [ 52221, "445D1BD2-FDC3-498C-8BDE-026158833017", 52221, 1397667921, "392873", 1397667921, "392873", null, "305", "14083005", "09-25-1983", "353967", "3482376", null ]
+, [ 52222, "F7774DA6-DE85-4421-B1E8-7006B894D4A0", 52222, 1397667921, "392873", 1397667921, "392873", null, "306", "14084002", "07-16-1963", "337357", "3484477", null ]
+, [ 52223, "293631D8-B88A-42F8-8E04-DCF0D4D8E1CA", 52223, 1397667921, "392873", 1397667921, "392873", null, "307", "14084003", "10-14-1952", "333006", "3484233", null ]
+, [ 52224, "44139D34-73F9-449D-A36A-1BAA8EBE8FB3", 52224, 1397667921, "392873", 1397667921, "392873", null, "308", "14084005", "08-06-1958", "30668", "3485467", null ]
+, [ 52225, "8A872A55-518D-4605-B231-93565D591282", 52225, 1397667921, "392873", 1397667921, "392873", null, "309", "14084006", "02-03-1969", "362814", "3484160", null ]
+, [ 52226, "DFAB206D-51F6-4442-8918-B93AD3C82243", 52226, 1397667921, "392873", 1397667921, "392873", null, "310", "14084008", "05-30-1969", "372981", "3484447", null ]
+, [ 52227, "D922443B-9C97-4372-AA99-BC32B2C1F897", 52227, 1397667921, "392873", 1397667921, "392873", null, "311", "14084009", "12-16-1977", "373134", "3484548", null ]
+, [ 52228, "6BFB99A1-88E5-4256-996A-EB3CFB4ABF7A", 52228, 1397667921, "392873", 1397667921, "392873", null, "312", "14084011", "05-02-1964", "373123", "3483181", null ]
+, [ 52229, "2AE57EFC-ADA5-4335-A4F5-0B0BBC28F78A", 52229, 1397667921, "392873", 1397667921, "392873", null, "313", "14084014", "05-28-1976", "313446", "3485950", null ]
+, [ 52230, "A951619F-88CB-4E9C-B33F-1D29F4E467B3", 52230, 1397667922, "392873", 1397667922, "392873", null, "314", "14084016", "02-13-1981", "373140", "3485441", null ]
+, [ 52231, "A8F56F40-9956-4C93-B6F6-80FEA5E66934", 52231, 1397667922, "392873", 1397667922, "392873", null, "315", "14084017", "12-16-1961", "309576", "3483359", null ]
+, [ 52232, "E08B04A6-3A5A-4D3E-B016-044C5AB5E4F4", 52232, 1397667922, "392873", 1397667922, "392873", null, "316", "14084018", "08-20-1972", "327892", "3485815", null ]
+, [ 52233, "635E3A80-6474-4AE0-B3CC-52A729DD42B3", 52233, 1397667922, "392873", 1397667922, "392873", null, "317", "14084019", "09-30-1961", "373144", "3486581", null ]
+, [ 52234, "591C1613-3034-4FEA-B604-2A8B26FB31E2", 52234, 1397667922, "392873", 1397667922, "392873", null, "318", "14084020", "01-05-1964", "276834", "3486145", null ]
+, [ 52235, "3D02C641-65EB-4C78-B5A1-E5DF47F14A58", 52235, 1397667922, "392873", 1397667922, "392873", null, "319", "14084023", "12-13-1978", "372102", "3485987", null ]
+, [ 52236, "5E684601-F506-424C-BD97-9E5D56A969F0", 52236, 1397667922, "392873", 1397667922, "392873", null, "320", "14084025", "08-24-1960", "48949", "3483275", null ]
+, [ 52237, "9B13E662-2DE4-4A5C-9409-6A7F1F338306", 52237, 1397667922, "392873", 1397667922, "392873", null, "321", "14085001", "07-20-1937", "326455", "3488795", null ]
+, [ 52238, "A6F48F00-50E9-4EE1-A4F1-0429060ADB10", 52238, 1397667922, "392873", 1397667922, "392873", null, "322", "14085002", "10-12-1962", "316254", "3487811", null ]
+, [ 52239, "49CF3086-E93A-44FE-8109-F3C146908E2C", 52239, 1397667922, "392873", 1397667922, "392873", null, "323", "14085003", "10-30-1959", "333129", "3486891", null ]
+, [ 52240, "0DCEC00B-B1AD-4452-B60F-B09936CEE2E1", 52240, 1397667922, "392873", 1397667922, "392873", null, "324", "14085004", "08-07-1984", "366151", "3487059", null ]
+, [ 52241, "87A48E38-07D9-4C6A-82D6-27BDB53D9EA3", 52241, 1397667922, "392873", 1397667922, "392873", null, "325", "14085005", "11-30-1989", "359696", "3489262", null ]
+, [ 52242, "7827C41F-4DDC-4FB5-B65D-5E19965FE626", 52242, 1397667922, "392873", 1397667922, "392873", null, "326", "14085006", "12-08-1946", "30209", "3490177", null ]
+, [ 52243, "1D5FA47B-952C-4865-96AB-1D1350013D10", 52243, 1397667922, "392873", 1397667922, "392873", null, "327", "14085007", "12-10-1988", "373168", "3489228", null ]
+, [ 52244, "5A39D3D7-9A49-48E0-B2F2-0C975635C541", 52244, 1397667922, "392873", 1397667922, "392873", null, "328", "14085009", "09-19-1973", "6521", "3489118", null ]
+, [ 52245, "5FB81C8A-E02A-480D-BA08-B8AC76C6415C", 52245, 1397667922, "392873", 1397667922, "392873", null, "329", "14085010", "02-08-1957", "34693", "3486999", null ]
+, [ 52246, "F0C5A7A2-0EBE-457B-A9D6-6E0DCEA5680A", 52246, 1397667922, "392873", 1397667922, "392873", null, "330", "14085011", "02-12-1956", "326150", "3490492", null ]
+, [ 52247, "21398EB6-84FD-4AB6-B394-5945E2EAF939", 52247, 1397667922, "392873", 1397667922, "392873", null, "331", "14085013", "06-21-1962", "15106", "3490445", null ]
+, [ 52248, "1D20F9CD-D235-4A0C-9952-09ABAEEF63AE", 52248, 1397667922, "392873", 1397667922, "392873", null, "332", "14085014", "01-30-1954", "48562", "3488872", null ]
+, [ 52249, "C44E585F-5DE4-4E9C-A9B7-C0CA2880FDB0", 52249, 1397667922, "392873", 1397667922, "392873", null, "333", "14085015", "11-21-1948", "31937", "3490213", null ]
+, [ 52250, "D95E5C79-82A5-4BAA-BC34-5B542163C17A", 52250, 1397667922, "392873", 1397667922, "392873", null, "334", "14085016", "11-26-1943", "17865", "3489461", null ]
+, [ 52251, "EE8588BF-5F58-422B-B61C-94666CB6757B", 52251, 1397667922, "392873", 1397667922, "392873", null, "335", "14085017", "12-24-1967", "278719", "3487150", null ]
+, [ 52252, "F754C84B-F16C-4E68-9990-ECD09DC75DF8", 52252, 1397667922, "392873", 1397667922, "392873", null, "336", "14085018", "03-26-1940", "340377", "3488553", null ]
+, [ 52253, "EEAA5272-476E-4A46-9D07-403383A197EB", 52253, 1397667922, "392873", 1397667922, "392873", null, "337", "14085019", "01-03-1969", "299422", "3487216", null ]
+, [ 52254, "386D0910-EDBE-4435-880A-CDD9DF56E112", 52254, 1397667922, "392873", 1397667922, "392873", null, "338", "14085020", "03-16-1967", "365703", "3488095", null ]
+, [ 52255, "AA4502D4-0427-41F6-814A-F2C04B757853", 52255, 1397667922, "392873", 1397667922, "392873", null, "339", "14085022", "05-17-1964", "332934", "3487253", null ]
+, [ 52256, "4FF64B47-1C0C-41DF-ABB5-8C41E16D5CBF", 52256, 1397667922, "392873", 1397667922, "392873", null, "340", "14086001", "04-16-1964", "11636", "3492163", null ]
+, [ 52257, "E966A442-586C-465C-90B5-B05B445231A5", 52257, 1397667922, "392873", 1397667922, "392873", null, "341", "14086002", "08-30-1964", "16635", "3491741", null ]
+, [ 52258, "F2B398D8-D56A-4D99-9C56-856268951C92", 52258, 1397667922, "392873", 1397667922, "392873", null, "342", "14086003", "11-30-1964", "365227", "3491379", null ]
+, [ 52259, "A992FBC9-2239-46B7-80A5-4FF987D0362F", 52259, 1397667922, "392873", 1397667922, "392873", null, "343", "14086004", "08-04-1975", "373192", "3492756", null ]
+, [ 52260, "6FDC00C6-5F50-4BEA-A329-AC6EC8C3901F", 52260, 1397667922, "392873", 1397667922, "392873", null, "344", "14086005", "11-29-1967", "363547", "3493699", null ]
+, [ 52261, "E43D1C4D-1428-4947-A453-B6F6CE0F667A", 52261, 1397667922, "392873", 1397667922, "392873", null, "345", "14086008", "05-20-1993", "372584", "3491724", null ]
+, [ 52262, "25AFDE66-307A-4BE3-BEEB-836B65E45C94", 52262, 1397667922, "392873", 1397667922, "392873", null, "346", "14086009", "08-18-1952", "36963", "3492128", null ]
+, [ 52263, "CEE16572-B3BB-4535-8A66-55286883B2E3", 52263, 1397667922, "392873", 1397667922, "392873", null, "347", "14086011", "07-28-1965", "45677", "3490589", null ]
+, [ 52264, "282316B2-7ACB-482F-9CDF-C4C136B4EC70", 52264, 1397667922, "392873", 1397667922, "392873", null, "348", "14086012", "11-30-1972", "7265", "3493221", null ]
+, [ 52265, "4D18A071-2FFF-49B6-A0E8-C77A1AA14FCD", 52265, 1397667922, "392873", 1397667922, "392873", null, "349", "14086013", "03-28-1974", "365691", "3490837", null ]
+, [ 52266, "5E2B12B9-F4EB-4F6C-B8E9-0411A40678FA", 52266, 1397667922, "392873", 1397667922, "392873", null, "350", "14086014", "04-03-1964", "23588", "3493197", null ]
+, [ 52267, "517CBD80-FF31-4399-9848-CFEEF16F0D16", 52267, 1397667922, "392873", 1397667922, "392873", null, "351", "14086015", "12-11-1951", "352263", "3493628", null ]
+, [ 52268, "77ECAD7E-7FC8-433B-987C-EC5D85F7CE48", 52268, 1397667922, "392873", 1397667922, "392873", null, "352", "14086016", "08-27-1986", "373190", "3492494", null ]
+, [ 52269, "009DBC52-B5CC-441C-A4CD-9AABB26337D0", 52269, 1397667922, "392873", 1397667922, "392873", null, "353", "14086017", "08-24-1957", "371325", "3491161", null ]
+, [ 52270, "DEE7364C-A822-4293-AA17-8A85A92F1CC1", 52270, 1397667922, "392873", 1397667922, "392873", null, "354", "14086020", "07-13-1988", "317831", "3494813", null ]
+, [ 52271, "1DB860E2-4250-4DBD-8B50-70D61A1FCB03", 52271, 1397667922, "392873", 1397667922, "392873", null, "355", "14087001", "11-29-1981", "352085", "3496657", null ]
+, [ 52272, "DC523484-85BC-4BE8-BF1A-E0CFBC0EDA8A", 52272, 1397667922, "392873", 1397667922, "392873", null, "356", "14087002", "08-15-1958", "47957", "3494698", null ]
+, [ 52273, "3A8992F0-597C-4672-972C-635576E332AC", 52273, 1397667922, "392873", 1397667922, "392873", null, "357", "14087003", "06-02-1954", "373220", "3495586", null ]
+, [ 52274, "3CB6C8AC-B7B0-4868-90F6-E4F0C4359B64", 52274, 1397667922, "392873", 1397667922, "392873", null, "358", "14087004", "07-06-1985", "331607", "3496867", null ]
+, [ 52275, "BA53D951-BF9B-46C1-96CB-9D1302673678", 52275, 1397667922, "392873", 1397667922, "392873", null, "359", "14087005", "03-02-1960", "49320", "3495119", null ]
+, [ 52276, "FBE470F3-B87C-4616-91BB-428BC2A27DED", 52276, 1397667922, "392873", 1397667922, "392873", null, "360", "14087006", "02-08-1961", "25350", "3497082", null ]
+, [ 52277, "97CC7F42-306A-4E4B-9104-D8B0A291DD7A", 52277, 1397667922, "392873", 1397667922, "392873", null, "361", "14087007", "05-16-1980", "373196", "3494149", null ]
+, [ 52278, "A81F5A10-303F-4672-81BD-E8ECC0EA30A5", 52278, 1397667922, "392873", 1397667922, "392873", null, "362", "14087008", "11-09-1985", "364429", "3494158", null ]
+, [ 52279, "14E24E25-C25E-4CF2-B0CD-464473F7498B", 52279, 1397667922, "392873", 1397667922, "392873", null, "363", "14087009", "07-05-1966", "350107", "3494351", null ]
+, [ 52280, "80E2BE8B-4A9B-4910-B4AB-A8A39F895F3A", 52280, 1397667922, "392873", 1397667922, "392873", null, "364", "14087010", "11-07-1958", "367447", "3495613", null ]
+, [ 52281, "FE3BD19E-F9A4-4A1B-90FA-802075A41293", 52281, 1397667922, "392873", 1397667922, "392873", null, "365", "14088001", "09-23-1959", "295282", "3499879", null ]
+, [ 52282, "617BE17C-0C86-48D2-9EEC-470582B382AA", 52282, 1397667922, "392873", 1397667922, "392873", null, "366", "14088002", "12-03-1963", "323747", "3498525", null ]
+, [ 52283, "BA622624-8CC2-4F00-9E68-B83A1493598B", 52283, 1397667922, "392873", 1397667922, "392873", null, "367", "14088003", "01-10-1956", "321352", "3498304", null ]
+, [ 52284, "19BF924F-CB6D-4FB1-83CB-2FE8A6AE532D", 52284, 1397667922, "392873", 1397667922, "392873", null, "368", "14088004", "03-08-1959", "293867", "3498331", null ]
+, [ 52285, "EB12AE6E-7379-4FB9-9C61-08F012E2CC67", 52285, 1397667922, "392873", 1397667922, "392873", null, "369", "14088005", "05-16-1974", "364669", "3498340", null ]
+, [ 52286, "740739F9-9E6D-4823-A195-FBEDA6E15F73", 52286, 1397667922, "392873", 1397667922, "392873", null, "370", "14088007", "05-09-1953", "373262", "3499953", null ]
+, [ 52287, "F5E1E1CC-3799-4578-A54D-440054599D68", 52287, 1397667922, "392873", 1397667922, "392873", null, "371", "14088008", "06-30-1974", "373258", "3499874", null ]
+, [ 52288, "720A94F9-0ACB-4E1A-8018-58513FBC0BA1", 52288, 1397667922, "392873", 1397667922, "392873", null, "372", "14088009", "01-29-1958", "10990", "3500658", null ]
+, [ 52289, "96B89B31-57D6-4AA1-8E0B-D74AC06D7EAB", 52289, 1397667922, "392873", 1397667922, "392873", null, "373", "14088010", "12-23-1968", "366480", "3499349", null ]
+, [ 52290, "69CC45AE-3288-4881-B164-FBD04858AA73", 52290, 1397667922, "392873", 1397667922, "392873", null, "374", "14088011", "07-24-1978", "362724", "3500277", null ]
+, [ 52291, "976545D2-C241-427B-9EF5-7A7F98C08532", 52291, 1397667922, "392873", 1397667922, "392873", null, "375", "14088012", "04-24-1963", "37427", "3499364", null ]
+, [ 52292, "D8E56A13-F4A1-4446-B0EA-76C86B104B2A", 52292, 1397667922, "392873", 1397667922, "392873", null, "376", "14088013", "12-31-1974", "370410", "3499897", null ]
+, [ 52293, "FAD039C0-0DBB-4240-8A79-FD725E56E402", 52293, 1397667922, "392873", 1397667922, "392873", null, "377", "14088014", "08-27-1973", "53282", "3499388", null ]
+, [ 52294, "DA7A7B37-E698-4211-A87F-9B0927428005", 52294, 1397667922, "392873", 1397667922, "392873", null, "378", "14088015", "11-17-1955", "355502", "3498180", null ]
+, [ 52295, "9EAE1C9D-97B1-4943-9D36-082E3C025617", 52295, 1397667922, "392873", 1397667922, "392873", null, "379", "14088016", "07-05-1969", "331358", "3499990", null ]
+, [ 52296, "125FE7F9-0B9C-4C83-A984-52C089004847", 52296, 1397667922, "392873", 1397667922, "392873", null, "380", "14089001", "12-15-1974", "365281", "3501594", null ]
+, [ 52297, "F8AE199F-131D-4D3D-A343-E1752387D2EB", 52297, 1397667922, "392873", 1397667922, "392873", null, "381", "14089002", "03-01-1969", "373260", "3501406", null ]
+, [ 52298, "E93A571C-83DB-440B-8288-796CA58C49E4", 52298, 1397667922, "392873", 1397667922, "392873", null, "382", "14089005", "04-26-1970", "306738", "3502817", null ]
+, [ 52299, "5826683D-BFF7-4D64-A39A-609027C27214", 52299, 1397667922, "392873", 1397667922, "392873", null, "383", "14089006", "07-21-1964", "303469", "3501734", null ]
+, [ 52300, "78E0DCB4-0902-4C14-9FF1-5E265BF406C8", 52300, 1397667922, "392873", 1397667922, "392873", null, "384", "14089007", "11-05-1972", "27113", "3502818", null ]
+, [ 52301, "2841EFCF-58F1-44C1-B530-682592D37033", 52301, 1397667922, "392873", 1397667922, "392873", null, "385", "14089009", "01-26-1952", "42487", "3502580", null ]
+, [ 52302, "EA95AC21-DF45-4233-8B6C-5F5D2B53D9D9", 52302, 1397667922, "392873", 1397667922, "392873", null, "386", "14089011", "06-18-1968", "279040", "3502085", null ]
+, [ 52303, "9B85A4A6-B10A-4A66-96A5-BA77FCA63C7C", 52303, 1397667922, "392873", 1397667922, "392873", null, "387", "14089012", "12-09-1959", "308873", "3502855", null ]
+, [ 52304, "19FDAA07-5051-48A3-A2B5-CE2DC278E91B", 52304, 1397667922, "392873", 1397667922, "392873", null, "388", "14089014", "01-20-1985", "365732", "3502393", null ]
+, [ 52305, "E2683DD9-C652-44A8-B3B4-5813ADAB9F19", 52305, 1397667922, "392873", 1397667922, "392873", null, "389", "14090002", "11-11-1938", "339735", "3505087", null ]
+, [ 52306, "BA0BD1EB-7100-489C-86DE-5916A0048DFE", 52306, 1397667922, "392873", 1397667922, "392873", null, "390", "14090003", "08-31-1989", "372318", "3504336", null ]
+, [ 52307, "92CA1177-AE69-4F30-8045-B83705633CA9", 52307, 1397667922, "392873", 1397667922, "392873", null, "391", "14090006", "06-25-1992", "373297", "3503165", null ]
+, [ 52308, "465E99AE-58F7-4D75-9F8D-E0A460CDEDEA", 52308, 1397667922, "392873", 1397667922, "392873", null, "392", "14090007", "12-20-1952", "373113", "3504159", null ]
+, [ 52309, "E2A6B2CA-DCFD-4AF7-BDFA-3CAAF0DA5D03", 52309, 1397667922, "392873", 1397667922, "392873", null, "393", "14090008", "05-09-1973", "280283", "3504883", null ]
+, [ 52310, "AF3445B1-F5EE-4A4D-BC00-F4A963C23B13", 52310, 1397667922, "392873", 1397667922, "392873", null, "394", "14090009", "05-31-1974", "321731", "3504983", null ]
+, [ 52311, "5B6C7F4D-8BBC-449B-B3CC-682A1A7F14B6", 52311, 1397667922, "392873", 1397667922, "392873", null, "395", "14091002", "07-19-1961", "369810", "3506451", null ]
+, [ 52312, "BE61E7C1-96AC-418F-838B-8A2E1C1794E4", 52312, 1397667922, "392873", 1397667922, "392873", null, "396", "14091003", "01-26-1965", "281856", "3505897", null ]
+, [ 52313, "1E22EF92-8B85-44C9-ACF7-EBA70D0BFEE8", 52313, 1397667922, "392873", 1397667922, "392873", null, "397", "14091004", "09-10-1951", "370726", "3507172", null ]
+, [ 52314, "2CE99F41-2081-4125-B069-40366242B75B", 52314, 1397667922, "392873", 1397667922, "392873", null, "398", "14091005", "09-28-1985", "370934", "3508846", null ]
+, [ 52315, "545BFAE6-FE4C-4B39-B911-48BA0F713CF3", 52315, 1397667922, "392873", 1397667922, "392873", null, "399", "14091006", "06-21-1967", "359136", "3505366", null ]
+, [ 52316, "3491A9BA-8612-4A4C-8A4A-41513F2C66A0", 52316, 1397667922, "392873", 1397667922, "392873", null, "400", "14091007", "04-13-1980", "363253", "3508571", null ]
+, [ 52317, "DF9279CF-3575-41B6-8779-F91CB38143EF", 52317, 1397667922, "392873", 1397667922, "392873", null, "401", "14091008", "02-02-1971", "21339", "3506878", null ]
+, [ 52318, "9DD15421-13B8-4A14-9DB4-3C94E3ABE894", 52318, 1397667922, "392873", 1397667922, "392873", null, "402", "14091009", "09-16-1965", "45048", "3507827", null ]
+, [ 52319, "6FDCF42A-EFF9-4DC6-8975-28DF34076C83", 52319, 1397667922, "392873", 1397667922, "392873", null, "403", "14091011", "09-30-1976", "331257", "3506174", null ]
+, [ 52320, "C65D8085-F87D-423B-8087-00095B71862E", 52320, 1397667922, "392873", 1397667922, "392873", null, "404", "14091012", "05-27-1957", "373328", "3505876", null ]
+, [ 52321, "7D8F0551-9768-46D5-B386-87CF08871286", 52321, 1397667922, "392873", 1397667922, "392873", null, "405", "14091013", "03-05-1983", "38790", "3507223", null ]
+, [ 52322, "EE6BC85C-5EA5-46C7-A37F-82A2A02C4904", 52322, 1397667922, "392873", 1397667922, "392873", null, "406", "14091014", "05-26-1962", "274826", "3507500", null ]
+, [ 52323, "0387721C-30E2-4294-8059-E1173F23B8FA", 52323, 1397667922, "392873", 1397667922, "392873", null, "407", "14091015", "11-23-1977", "372849", "3507153", null ]
+, [ 52324, "DA728F49-ADAB-458D-B147-79F8889D4ED8", 52324, 1397667922, "392873", 1397667922, "392873", null, "408", "14091016", "02-18-1963", "308293", "3507011", null ]
+, [ 52325, "37AEC862-4A35-4B21-81E7-D7F6F3E8AACD", 52325, 1397667922, "392873", 1397667922, "392873", null, "409", "14091017", "03-26-1956", "373295", "3507864", null ]
+, [ 52326, "933F57E9-17B7-494F-8287-E357B333CA44", 52326, 1397667922, "392873", 1397667922, "392873", null, "410", "14091018", "05-01-1941", "373232", "3506136", null ]
+, [ 52327, "0F4C6AC4-3260-4116-B990-857AEC9C219A", 52327, 1397667922, "392873", 1397667922, "392873", null, "411", "14091019", "06-12-1955", "25656", "3507595", null ]
+, [ 52328, "E986084E-93FB-4041-9E09-7EEF61E4F04A", 52328, 1397667922, "392873", 1397667922, "392873", null, "412", "14091020", "02-27-1973", "35649", "3506037", null ]
+, [ 52329, "2BA17709-63AA-4CE9-925C-7DC4066DDF9A", 52329, 1397667922, "392873", 1397667922, "392873", null, "413", "14091021", "10-02-1955", "370743", "3507230", null ]
+, [ 52330, "406A4FB6-E64D-4EC3-BC14-9583BC70A313", 52330, 1397667922, "392873", 1397667922, "392873", null, "414", "14091022", "11-10-1987", "284873", "3507401", null ]
+, [ 52331, "82BA4767-8EB9-42D4-8376-19C60A321187", 52331, 1397667922, "392873", 1397667922, "392873", null, "415", "14091024", "01-03-1968", "8644", "3508531", null ]
+, [ 52332, "805D39F5-28D9-4F53-94FE-E431619A0FFD", 52332, 1397667922, "392873", 1397667922, "392873", null, "416", "14091026", "03-08-1967", "291142", "3507000", null ]
+, [ 52333, "3FB78119-B68C-4F68-BC82-D4B0312B6157", 52333, 1397667922, "392873", 1397667922, "392873", null, "417", "14091027", "03-05-1973", "36906", "3507629", null ]
+, [ 52334, "A5991D5F-9014-4A3F-834E-9CFCA3A3EE16", 52334, 1397667922, "392873", 1397667922, "392873", null, "418", "14092001", "09-21-1960", "11006", "3511460", null ]
+, [ 52335, "FCE643C3-7FEA-4D83-917B-0DA08159F44E", 52335, 1397667922, "392873", 1397667922, "392873", null, "419", "14092002", "07-04-1937", "307499", "3510423", null ]
+, [ 52336, "8E54B463-523F-483A-9729-C74A70DF4E15", 52336, 1397667922, "392873", 1397667922, "392873", null, "420", "14092003", "05-01-1967", "23643", "3509231", null ]
+, [ 52337, "58B06C8A-5605-40DE-B15F-6A3729D0CE1B", 52337, 1397667922, "392873", 1397667922, "392873", null, "421", "14092004", "09-30-1977", "337673", "3510997", null ]
+, [ 52338, "D574F23E-1FAF-4A9F-8553-894A4E00B223", 52338, 1397667922, "392873", 1397667922, "392873", null, "422", "14092005", "07-19-1961", "28363", "3509197", null ]
+, [ 52339, "5328A115-FFFC-4EE2-8D53-0AB6780028B8", 52339, 1397667922, "392873", 1397667922, "392873", null, "423", "14092007", "10-05-1981", "328428", "3509203", null ]
+, [ 52340, "D66AB627-5835-4698-BE32-48A3F62AD69B", 52340, 1397667922, "392873", 1397667922, "392873", null, "424", "14092008", "03-13-1975", "335545", "3509444", null ]
+, [ 52341, "E23FAD3E-8E26-4FF9-86A6-351F0DD9E19D", 52341, 1397667922, "392873", 1397667922, "392873", null, "425", "14092009", "07-23-1970", "358979", "3509584", null ]
+, [ 52342, "5B17493C-CD32-42B4-80CC-CDE025C9C066", 52342, 1397667922, "392873", 1397667922, "392873", null, "426", "14092012", "02-18-1967", "373097", "3509814", null ]
+, [ 52343, "C1D9C7AA-7725-426E-87DF-9DDB6A957EA3", 52343, 1397667922, "392873", 1397667922, "392873", null, "427", "14092013", "11-20-1987", "373323", "3509301", null ]
+, [ 52344, "139D62D1-06A4-474A-A630-2E868FFB5F66", 52344, 1397667922, "392873", 1397667922, "392873", null, "428", "14092014", "04-10-1956", "42541", "3512059", null ]
+, [ 52345, "DE06689D-CC39-4D4F-BB5C-2DDC394EDB56", 52345, 1397667922, "392873", 1397667922, "392873", null, "429", "14092015", "12-04-1982", "368711", "3509735", null ]
+, [ 52346, "9A99C632-10D5-4690-9CF6-E8B8379B551A", 52346, 1397667922, "392873", 1397667922, "392873", null, "430", "14092017", "08-15-1935", "368367", "3509347", null ]
+, [ 52347, "697EEA6E-5420-4995-903C-863182F96BCD", 52347, 1397667922, "392873", 1397667922, "392873", null, "431", "14092018", "04-17-1940", "357099", "3509041", null ]
+, [ 52348, "6466160E-72E1-4568-96D8-369FF6B85CF8", 52348, 1397667922, "392873", 1397667922, "392873", null, "432", "14092019", "07-29-1958", "40117", "3511534", null ]
+, [ 52349, "E4691059-C38F-4B9A-8EE2-CDF18EB3458F", 52349, 1397667922, "392873", 1397667922, "392873", null, "433", "14093001", "07-01-1963", "313462", "3513990", null ]
+, [ 52350, "F82C1063-26AA-4A1B-AD53-026EE085C271", 52350, 1397667922, "392873", 1397667922, "392873", null, "434", "14093002", "09-01-1955", "289655", "3515011", null ]
+, [ 52351, "3F49E44B-EF4D-44B1-B6FD-182B4992AE73", 52351, 1397667922, "392873", 1397667922, "392873", null, "435", "14093004", "07-26-1947", "297446", "3513039", null ]
+, [ 52352, "8B6DA26B-555F-4A77-B0B3-75A6DA9D5515", 52352, 1397667922, "392873", 1397667922, "392873", null, "436", "14093006", "02-25-1970", "303463", "3513414", null ]
+, [ 52353, "A3A617CF-1BEE-40E2-BE13-0A2190881ECE", 52353, 1397667922, "392873", 1397667922, "392873", null, "437", "14093007", "02-13-1964", "11451", "3514973", null ]
+, [ 52354, "5C168148-73CE-45C0-B010-02A3BF142E9E", 52354, 1397667922, "392873", 1397667922, "392873", null, "438", "14093008", "08-24-1965", "353809", "3514516", null ]
+, [ 52355, "E80CA10C-404C-46A8-914E-14832761CF44", 52355, 1397667922, "392873", 1397667922, "392873", null, "439", "14093010", "12-04-1959", "292099", "3515090", null ]
+, [ 52356, "7013F56C-8392-4AF8-B91A-2A1A533CC90D", 52356, 1397667922, "392873", 1397667922, "392873", null, "440", "14093011", "11-13-1968", "369346", "3514482", null ]
+, [ 52357, "B35974F7-E8ED-4235-B59C-AD14AA2A940C", 52357, 1397667922, "392873", 1397667922, "392873", null, "441", "14093012", "12-01-1954", "329476", "3515217", null ]
+, [ 52358, "357481D1-75F4-4CC5-A5A4-AF2998183A24", 52358, 1397667922, "392873", 1397667922, "392873", null, "442", "14093013", "02-24-1968", "298855", "3512944", null ]
+, [ 52359, "D6953166-AA64-48A1-9A0C-E61B51174081", 52359, 1397667922, "392873", 1397667922, "392873", null, "443", "14093015", "02-26-1932", "34777", "3513838", null ]
+, [ 52360, "5C9F5EF1-9487-41C1-851F-63D867208AD4", 52360, 1397667922, "392873", 1397667922, "392873", null, "444", "14093017", "04-29-1973", "373410", "3513347", null ]
+, [ 52361, "B569AC34-ED0B-41CC-BB58-7BBBC8B7D27F", 52361, 1397667922, "392873", 1397667922, "392873", null, "445", "14093018", "03-02-1968", "373350", "3512952", null ]
+, [ 52362, "F01D5569-0B12-4106-823B-B3333E798FC5", 52362, 1397667922, "392873", 1397667922, "392873", null, "446", "14093020", "05-22-1964", "22721", "3513715", null ]
+, [ 52363, "64876EA9-E204-4DF6-A232-29E2FEC7F873", 52363, 1397667922, "392873", 1397667922, "392873", null, "447", "14093021", "09-17-1949", "294640", "3515005", null ]
+, [ 52364, "0303CF42-6B10-47A6-B3E4-A51B2784AAB4", 52364, 1397667922, "392873", 1397667922, "392873", null, "448", "14094001", "10-02-1950", "354814", "3516105", null ]
+, [ 52365, "F7AF2D06-E79F-4F27-8C49-DA2EC7B505AE", 52365, 1397667922, "392873", 1397667922, "392873", null, "449", "14094002", "12-10-1971", "373404", "3516657", null ]
+, [ 52366, "3A1DA8B7-28CC-46DD-BCFF-C42C830E3D38", 52366, 1397667922, "392873", 1397667922, "392873", null, "450", "14094003", "12-13-1971", "310352", "3516115", null ]
+, [ 52367, "8DD1F24B-6995-448F-B864-42C78A4F609D", 52367, 1397667922, "392873", 1397667922, "392873", null, "451", "14094004", "08-13-1964", "7532", "3516690", null ]
+, [ 52368, "740A00E3-AB51-49FC-9474-6D9C8A68702C", 52368, 1397667922, "392873", 1397667922, "392873", null, "452", "14094005", "02-06-1962", "16061", "3516456", null ]
+, [ 52369, "2ABB647D-2120-4503-A260-AD64EC18B86B", 52369, 1397667922, "392873", 1397667922, "392873", null, "453", "14094006", "11-19-1980", "284014", "3517934", null ]
+, [ 52370, "6F3C2200-62A1-4247-A056-FB0FAE941FB6", 52370, 1397667922, "392873", 1397667922, "392873", null, "454", "14094007", "08-11-1979", "40420", "3516662", null ]
+, [ 52371, "81079085-38EE-4376-927D-E10AEA59E89B", 52371, 1397667922, "392873", 1397667922, "392873", null, "455", "14094008", "07-14-1979", "29767", "3516220", null ]
+, [ 52372, "13682BA7-6F90-4163-BF4D-FF8D9009E212", 52372, 1397667922, "392873", 1397667922, "392873", null, "456", "14094009", "09-20-1980", "31240", "3517473", null ]
+, [ 52373, "6D3487D8-6D82-4F0D-8BE2-77C040721A27", 52373, 1397667922, "392873", 1397667922, "392873", null, "457", "14094011", "07-22-1961", "286009", "3517827", null ]
+, [ 52374, "1ED90800-9A03-425F-B292-111154B7BFEE", 52374, 1397667922, "392873", 1397667922, "392873", null, "458", "14094012", "10-14-1972", "333258", "3517069", null ]
+, [ 52375, "FF769D76-3E3D-43D7-B12E-CB16EB9A0866", 52375, 1397667922, "392873", 1397667922, "392873", null, "459", "14094013", "03-25-1955", "327396", "3517081", null ]
+, [ 52376, "D89FB105-9BB2-4E51-953C-4943D6DEB24B", 52376, 1397667922, "392873", 1397667922, "392873", null, "460", "14094014", "02-16-1973", "373399", "3516028", null ]
+, [ 52377, "7A6B1ECC-F64C-4A5D-86F3-8C0D45ACBE60", 52377, 1397667922, "392873", 1397667922, "392873", null, "461", "14094015", "10-09-1960", "314694", "3516748", null ]
+, [ 52378, "768924BC-C8F1-4FD2-969E-DDB40794D65C", 52378, 1397667922, "392873", 1397667922, "392873", null, "462", "14094016", "12-18-1978", "56028", "3516151", null ]
+, [ 52379, "EAEED7CE-87E3-4194-91F1-E7AFAA5FED66", 52379, 1397667922, "392873", 1397667922, "392873", null, "463", "14094017", "05-11-1974", "373372", "3517760", null ]
+, [ 52380, "E2C67C06-3188-4B9D-950D-F3452B6A435A", 52380, 1397667922, "392873", 1397667922, "392873", null, "464", "14094019", "05-16-1989", "334913", "3516466", null ]
+, [ 52381, "715D9B67-A803-41EB-B523-1A876712247F", 52381, 1397667922, "392873", 1397667922, "392873", null, "465", "14094020", "08-09-1980", "373425", "3518318", null ]
+, [ 52382, "85D0F23A-C955-496A-8D49-61F3F432EC5D", 52382, 1397667922, "392873", 1397667922, "392873", null, "466", "14094021", "07-11-1962", "358372", "3515933", null ]
+, [ 52383, "58CEE6A2-6B5F-45DE-8163-8447361F8702", 52383, 1397667922, "392873", 1397667922, "392873", null, "467", "14094023", "10-25-1968", "280374", "3517775", null ]
+, [ 52384, "1CD3C544-F4A1-4ED0-AA12-4690EF93CEA5", 52384, 1397667922, "392873", 1397667922, "392873", null, "468", "14094024", "01-23-1965", "321634", "3517103", null ]
+, [ 52385, "697B4E40-9985-4850-8FDB-0ED97CBDEAD6", 52385, 1397667922, "392873", 1397667922, "392873", null, "469", "14095001", "08-02-1960", "373418", "3518986", null ]
+, [ 52386, "D9CD21ED-4D7C-440A-9B6F-B5FAF761A0BF", 52386, 1397667922, "392873", 1397667922, "392873", null, "470", "14095002", "05-24-1957", "332210", "3519068", null ]
+, [ 52387, "AD8F34E4-3F51-4634-A500-EE4FCD29124F", 52387, 1397667922, "392873", 1397667922, "392873", null, "471", "14095003", "03-10-1960", "312772", "3519393", null ]
+, [ 52388, "223D5D3B-74AA-4973-8921-2E1D88945547", 52388, 1397667922, "392873", 1397667922, "392873", null, "472", "14095004", "06-09-1956", "6376", "3519183", null ]
+, [ 52389, "8E58858B-BAAC-43C4-8FF8-AF3B5F38FC21", 52389, 1397667922, "392873", 1397667922, "392873", null, "473", "14095005", "01-13-1959", "373432", "3519035", null ]
+, [ 52390, "E7833D95-FB19-4856-8712-20E78D3865D0", 52390, 1397667922, "392873", 1397667922, "392873", null, "474", "14095006", "04-12-1964", "47995", "3521460", null ]
+, [ 52391, "4F8D70B8-10F5-4941-81BF-D30276535813", 52391, 1397667922, "392873", 1397667922, "392873", null, "475", "14095008", "05-04-1972", "16609", "3521169", null ]
+, [ 52392, "0876C782-1CB7-4005-85A5-A56E86A9498E", 52392, 1397667922, "392873", 1397667922, "392873", null, "476", "14095009", "02-19-1982", "373427", "3520129", null ]
+, [ 52393, "2C80B8D3-65C2-42D3-8921-E8DA013B80C8", 52393, 1397667922, "392873", 1397667922, "392873", null, "477", "14095010", "04-21-1959", "24181", "3521039", null ]
+, [ 52394, "BA2B23E8-FCF0-42CD-9968-8E1719B91221", 52394, 1397667922, "392873", 1397667922, "392873", null, "478", "14095012", "05-05-1978", "363254", "3521217", null ]
+, [ 52395, "69CF1304-C6C2-4173-AD8C-97B26FAFA0ED", 52395, 1397667922, "392873", 1397667922, "392873", null, "479", "14095013", "07-07-1983", "361793", "3521102", null ]
+, [ 52396, "B38263A1-B24D-4F61-AEC7-0F2821AAF02C", 52396, 1397667922, "392873", 1397667922, "392873", null, "480", "14095014", "03-26-1980", "369365", "3518796", null ]
+, [ 52397, "0D1FE243-3CA8-4A86-9DF0-75866C313B72", 52397, 1397667922, "392873", 1397667922, "392873", null, "481", "14095015", "07-08-1956", "28281", "3520078", null ]
+, [ 52398, "696B609B-D3CE-4613-9CDA-6BAD82E7D411", 52398, 1397667922, "392873", 1397667922, "392873", null, "482", "14095016", "07-12-1989", "365347", "3519840", null ]
+, [ 52399, "260CD7D5-771B-42FC-95C5-14F064F29DBA", 52399, 1397667922, "392873", 1397667922, "392873", null, "483", "14095017", "08-10-1990", "321767", "3519665", null ]
+, [ 52400, "95842245-0D9D-4166-9851-1303C9D800D7", 52400, 1397667922, "392873", 1397667922, "392873", null, "484", "14095019", "10-28-1988", "309129", "3519875", null ]
+, [ 52401, "BB0C3EFE-B258-48C3-95FC-4EA0C43D808A", 52401, 1397667922, "392873", 1397667922, "392873", null, "485", "14095020", "05-25-1976", "44488", "3519328", null ]
+, [ 52402, "F73F550F-3D93-4748-B54E-BF25466DFD12", 52402, 1397667922, "392873", 1397667922, "392873", null, "486", "14095021", "05-29-1956", "11271", "3519249", null ]
+, [ 52403, "5301F9DE-8993-40D7-94AB-6907FBC487C2", 52403, 1397667922, "392873", 1397667922, "392873", null, "487", "14095022", "11-26-1965", "370274", "3518818", null ]
+, [ 52404, "6E3DFB78-5B1B-410D-A84E-ADC6BE3D5523", 52404, 1397667922, "392873", 1397667922, "392873", null, "488", "14095024", "10-16-1975", "6274", "3520539", null ]
+, [ 52405, "621B3743-9A25-4CCE-8399-9F49265851D2", 52405, 1397667922, "392873", 1397667922, "392873", null, "489", "14095025", "02-12-1973", "335892", "3519129", null ]
+, [ 52406, "3DA4C17C-608F-4BD5-99A4-945261222ED1", 52406, 1397667922, "392873", 1397667922, "392873", null, "490", "14095026", "12-23-1948", "338080", "3520735", null ]
+, [ 52407, "89332D2F-C2CE-4AE8-B1B0-053BC9C7A1D8", 52407, 1397667922, "392873", 1397667922, "392873", null, "491", "14096001", "09-14-1958", "358753", "3521595", null ]
+, [ 52408, "D5677056-DED7-4885-A111-92C0938BD096", 52408, 1397667922, "392873", 1397667922, "392873", null, "492", "14096002", "02-01-1952", "25978", "3521955", null ]
+, [ 52409, "5975B244-9973-4010-9180-3B985857C328", 52409, 1397667922, "392873", 1397667922, "392873", null, "493", "14096004", "01-12-1977", "18515", "3523241", null ]
+, [ 52410, "1521B910-210F-4339-86E8-32AB7E7E780B", 52410, 1397667922, "392873", 1397667922, "392873", null, "494", "14096007", "02-04-1959", "25177", "3522995", null ]
+, [ 52411, "FAF90D23-6A6F-426E-A41F-77B54080255F", 52411, 1397667922, "392873", 1397667922, "392873", null, "495", "14096008", "03-04-1960", "373474", "3522411", null ]
+, [ 52412, "62EB4A06-B4C7-49F7-B9D3-299E82DB07CD", 52412, 1397667922, "392873", 1397667922, "392873", null, "496", "14097003", "01-26-1983", "373507", "3524466", null ]
+, [ 52413, "CBF42E2B-BD65-4E52-B7AF-BB032B401621", 52413, 1397667922, "392873", 1397667922, "392873", null, "497", "14097004", "01-12-1989", "362128", "3525099", null ]
+, [ 52414, "DC23A532-641D-4E9D-A674-17708F126149", 52414, 1397667922, "392873", 1397667922, "392873", null, "498", "14097005", "04-15-1965", "294462", "3526002", null ]
+, [ 52415, "743B7B63-CE87-4A92-BDB7-07C05E27E98B", 52415, 1397667922, "392873", 1397667922, "392873", null, "499", "14097006", "09-07-1955", "318316", "3524177", null ]
+, [ 52416, "9CF5428C-5843-4606-9E45-448F70EF79A3", 52416, 1397667922, "392873", 1397667922, "392873", null, "500", "14097007", "03-20-1955", "56846", "3525442", null ]
+, [ 52417, "A089AB9E-BC5C-4757-874A-CF9473137609", 52417, 1397667922, "392873", 1397667922, "392873", null, "501", "14097009", "07-15-1948", "359092", "3525490", null ]
+, [ 52418, "9D1D46C9-3138-49A3-9173-95E2001300F5", 52418, 1397667922, "392873", 1397667922, "392873", null, "502", "14097010", "10-10-1976", "44513", "3525261", null ]
+, [ 52419, "E0BF17AB-B2E5-42C7-8904-8BFAD2F93C89", 52419, 1397667922, "392873", 1397667922, "392873", null, "503", "14097011", "07-19-1961", "286431", "3525923", null ]
+, [ 52420, "AA81D199-AE4B-46B7-8AB5-86642049FC62", 52420, 1397667922, "392873", 1397667922, "392873", null, "504", "14098001", "07-31-1956", "339318", "3529586", null ]
+, [ 52421, "1EEF8AE6-8664-43E3-809F-6BEB54E98C7E", 52421, 1397667922, "392873", 1397667922, "392873", null, "505", "14098002", "07-12-1959", "50967", "3527603", null ]
+, [ 52422, "BD42EB75-1AA6-4793-BFC0-CC71B66ECD5B", 52422, 1397667922, "392873", 1397667922, "392873", null, "506", "14098003", "08-15-1977", "32661", "3529740", null ]
+, [ 52423, "B6471111-D638-4572-9D5A-8D0C328BA89E", 52423, 1397667922, "392873", 1397667922, "392873", null, "507", "14098004", "01-21-1972", "370179", "3526422", null ]
+, [ 52424, "4409BD5B-6A28-448C-99A4-12A504D0F437", 52424, 1397667922, "392873", 1397667922, "392873", null, "508", "14098005", "07-09-1976", "300510", "3526650", null ]
+, [ 52425, "B7BF6391-1F7C-4977-B665-D6934277F7E5", 52425, 1397667922, "392873", 1397667922, "392873", null, "509", "14098006", "03-30-1975", "337505", "3528445", null ]
+, [ 52426, "3D3F806D-23A6-48FB-83F5-1A547A4A2CDF", 52426, 1397667922, "392873", 1397667922, "392873", null, "510", "14098007", "08-08-1957", "37303", "3529772", null ]
+, [ 52427, "91E8A036-BDE2-4940-A977-AA26EC326485", 52427, 1397667922, "392873", 1397667922, "392873", null, "511", "14098008", "07-18-1985", "373542", "3528667", null ]
+, [ 52428, "283DB575-EFAF-493A-B269-5992B4965B41", 52428, 1397667922, "392873", 1397667922, "392873", null, "512", "14098009", "06-09-1960", "372442", "3526571", null ]
+, [ 52429, "D67B09E1-1351-4537-B5B1-500BBE549E22", 52429, 1397667922, "392873", 1397667922, "392873", null, "513", "14098012", "05-08-1972", "323973", "3527200", null ]
+, [ 52430, "7EEA0E47-E734-4F8B-9713-1270EC52FC50", 52430, 1397667922, "392873", 1397667922, "392873", null, "514", "14098014", "06-08-1971", "372654", "3529410", null ]
+, [ 52431, "2A0E37E9-9863-487C-A7DD-E98D8B209566", 52431, 1397667922, "392873", 1397667922, "392873", null, "515", "14098015", "06-07-1958", "9216", "3528961", null ]
+, [ 52432, "CAF62EAB-881E-4ABB-AF06-998B3523543D", 52432, 1397667922, "392873", 1397667922, "392873", null, "516", "14098016", "02-01-1978", "373531", "3527294", null ]
+, [ 52433, "FD8A8B43-87D5-4ED1-B923-055B7B74A52E", 52433, 1397667922, "392873", 1397667922, "392873", null, "517", "14098017", "10-10-1957", "373428", "3527891", null ]
+, [ 52434, "7C7C13C5-AE05-48EB-8160-B69186193EAD", 52434, 1397667922, "392873", 1397667922, "392873", null, "518", "14098018", "01-01-1975", "32859", "3528649", null ]
+, [ 52435, "D05EA19E-A78B-4BD2-A9BB-215D10561ED8", 52435, 1397667922, "392873", 1397667922, "392873", null, "519", "14098019", "09-09-1968", "371505", "3529464", null ]
+, [ 52436, "DC13CDA7-10F3-453C-AD53-D2E05DD6DB59", 52436, 1397667922, "392873", 1397667922, "392873", null, "520", "14098020", "04-29-1974", "304268", "3526473", null ]
+, [ 52437, "646DFBE5-B3E3-4D02-B3BE-170D1678A4FF", 52437, 1397667922, "392873", 1397667922, "392873", null, "521", "14098022", "10-16-1946", "360885", "3529090", null ]
+, [ 52438, "D2064810-7A3F-431A-AB01-420A0129EF74", 52438, 1397667922, "392873", 1397667922, "392873", null, "522", "14098023", "04-16-1961", "325967", "3526306", null ]
+, [ 52439, "483E8770-DE0C-4876-A196-CBD0FEB87F3D", 52439, 1397667922, "392873", 1397667922, "392873", null, "523", "14098024", "09-18-1960", "370559", "3526502", null ]
+, [ 52440, "1CADA3B7-56B8-4706-8C01-B9570302458A", 52440, 1397667922, "392873", 1397667922, "392873", null, "524", "14098026", "12-09-1962", "12750", "3527586", null ]
+, [ 52441, "83B3048F-C6E8-41BA-AF93-EB4824DAAB64", 52441, 1397667922, "392873", 1397667922, "392873", null, "525", "14099001", "05-21-1978", "373523", "3533224", null ]
+, [ 52442, "F5D49BCC-F746-4BB4-BA1F-618D38466408", 52442, 1397667922, "392873", 1397667922, "392873", null, "526", "14099002", "05-07-1970", "22868", "3530776", null ]
+, [ 52443, "000D6B6A-5AA9-4E49-AEB8-F7AF465D2719", 52443, 1397667922, "392873", 1397667922, "392873", null, "527", "14099003", "08-19-1985", "320083", "3531320", null ]
+, [ 52444, "16411282-D34D-41A3-AB45-8D576ABD67FD", 52444, 1397667922, "392873", 1397667922, "392873", null, "528", "14099004", "01-15-1954", "373552", "3530510", null ]
+, [ 52445, "6B93BF2B-74D3-4714-BAB1-F701753DCCC3", 52445, 1397667922, "392873", 1397667922, "392873", null, "529", "14099005", "03-14-1963", "10687", "3530906", null ]
+, [ 52446, "8E898894-493F-491B-8D5B-94CD0C36A5A4", 52446, 1397667922, "392873", 1397667922, "392873", null, "530", "14099006", "05-25-1953", "369274", "3530797", null ]
+, [ 52447, "833741FF-D022-428B-BAD3-7296EA150A29", 52447, 1397667922, "392873", 1397667922, "392873", null, "531", "14099007", "05-28-1958", "37354", "3533189", null ]
+, [ 52448, "08077C97-CEC1-493A-A946-C79AEAE4252E", 52448, 1397667922, "392873", 1397667922, "392873", null, "532", "14099008", "08-02-1979", "334533", "3530852", null ]
+, [ 52449, "215C215A-9003-4E18-8987-F63D8C6B3EE0", 52449, 1397667922, "392873", 1397667922, "392873", null, "533", "14099009", "08-11-1932", "275534", "3530880", null ]
+, [ 52450, "8FB2005B-D6F2-420B-8A09-DB0FD2F79878", 52450, 1397667922, "392873", 1397667922, "392873", null, "534", "14099010", "11-19-1948", "293533", "3532269", null ]
+, [ 52451, "24B0395A-86B9-459F-864C-2FD8D5AFDA43", 52451, 1397667922, "392873", 1397667922, "392873", null, "535", "14099011", "12-20-1983", "329431", "3532927", null ]
+, [ 52452, "733B9EEB-587E-459C-9153-AEF579004D07", 52452, 1397667922, "392873", 1397667922, "392873", null, "536", "14099012", "05-02-1963", "295995", "3531265", null ]
+, [ 52453, "B23B2519-756E-46DE-8EB3-82F7853982FF", 52453, 1397667922, "392873", 1397667922, "392873", null, "537", "14099013", "07-28-1965", "373572", "3532221", null ]
+, [ 52454, "87BF1AE2-C9C7-4909-9C3D-384C4A2EFFA8", 52454, 1397667922, "392873", 1397667922, "392873", null, "538", "14099015", "01-03-1980", "14187", "3532548", null ]
+, [ 52455, "1312D623-50AE-4055-B178-2D9BA40124D3", 52455, 1397667922, "392873", 1397667922, "392873", null, "539", "14099016", "11-18-1963", "373546", "3532058", null ]
+, [ 52456, "37A2BBF1-6DC5-4B4E-9D1A-EC8E147A645B", 52456, 1397667922, "392873", 1397667922, "392873", null, "540", "14099017", "12-08-1960", "279668", "3533131", null ]
+, [ 52457, "FBCEF487-BF84-47E8-A9A1-E7AAC4EE32EE", 52457, 1397667922, "392873", 1397667922, "392873", null, "541", "14099018", "08-20-1963", "46300", "3530498", null ]
+, [ 52458, "391CA21E-7843-4411-847D-B97CF8123826", 52458, 1397667922, "392873", 1397667922, "392873", null, "542", "14100001", "05-25-1983", "362643", "3535096", null ]
+, [ 52459, "5B4F639D-7DBC-45E7-BE16-C5BF9F7BDA84", 52459, 1397667922, "392873", 1397667922, "392873", null, "543", "14100003", "08-02-1950", "373569", "3535997", null ]
+, [ 52460, "51C94C8A-1BD2-4E33-900C-C5B76DCE5111", 52460, 1397667922, "392873", 1397667922, "392873", null, "544", "14100004", "09-09-1960", "373408", "3534612", null ]
+, [ 52461, "785FB989-B183-4A6C-BA2D-6EAA630AC844", 52461, 1397667922, "392873", 1397667922, "392873", null, "545", "14100005", "07-09-1970", "373602", "3535183", null ]
+, [ 52462, "5E541EF6-E9E8-4609-AFF6-B4F0DE42B22E", 52462, 1397667922, "392873", 1397667922, "392873", null, "546", "14100006", "09-18-1963", "46008", "3533979", null ]
+, [ 52463, "76E66DD7-6C50-42A6-80B9-EFA0B9766834", 52463, 1397667922, "392873", 1397667922, "392873", null, "547", "14100007", "10-20-1968", "26070", "3533837", null ]
+, [ 52464, "D757C866-4403-46B7-90A8-95E4DE23A001", 52464, 1397667922, "392873", 1397667922, "392873", null, "548", "14100008", "06-04-1969", "325473", "3534097", null ]
+, [ 52465, "CD0EB568-7598-49F3-9B5C-BC187E5984ED", 52465, 1397667922, "392873", 1397667922, "392873", null, "549", "14100009", "06-23-1979", "314417", "3536631", null ]
+, [ 52466, "0AC9FE7C-21F7-4234-80EC-6999AFDAA143", 52466, 1397667922, "392873", 1397667922, "392873", null, "550", "14100011", "03-15-1974", "43666", "3534340", null ]
+, [ 52467, "BA68BE7C-1078-4461-8C47-E101DC062E83", 52467, 1397667922, "392873", 1397667922, "392873", null, "551", "14100012", "12-28-1982", "343540", "3534545", null ]
+, [ 52468, "D8D55296-07B8-41AB-8188-3F10181B07C4", 52468, 1397667922, "392873", 1397667922, "392873", null, "552", "14100013", "11-02-1964", "295658", "3535326", null ]
+, [ 52469, "FAE05F1C-3EF3-4760-ADF3-D19DF1DD4F34", 52469, 1397667922, "392873", 1397667922, "392873", null, "553", "14100014", "11-30-1965", "292426", "3534392", null ]
+, [ 52470, "DC305D68-C65D-43DB-A82B-B5DD2E429017", 52470, 1397667922, "392873", 1397667922, "392873", null, "554", "14100015", "03-11-1956", "373389", "3536405", null ]
+, [ 52471, "2A0CE57C-5122-4498-8295-0B6649DA7DAC", 52471, 1397667922, "392873", 1397667922, "392873", null, "555", "14100017", "03-10-1954", "36884", "3534409", null ]
+, [ 52472, "B4888871-3AF2-4570-8E95-8DF976577CE4", 52472, 1397667922, "392873", 1397667922, "392873", null, "556", "14100018", "01-01-1958", "296432", "3536042", null ]
+, [ 52473, "15300D15-A1BF-42BC-9BF8-975C7CD404FF", 52473, 1397667922, "392873", 1397667922, "392873", null, "557", "14100019", "07-24-1965", "46646", "3536370", null ]
+, [ 52474, "FCBC8B52-A91C-45BC-AE2C-5FAA84CE098C", 52474, 1397667922, "392873", 1397667922, "392873", null, "558", "14100020", "12-14-1949", "373580", "3533884", null ]
+, [ 52475, "7AE0AC12-7E1D-403B-8002-89F0C253D576", 52475, 1397667922, "392873", 1397667922, "392873", null, "559", "14100021", "03-03-1968", "320962", "3534471", null ]
+, [ 52476, "312E2811-2A20-4E81-BC41-99B4B6A99BFE", 52476, 1397667922, "392873", 1397667922, "392873", null, "560", "14100022", "07-12-1958", "30082", "3535378", null ]
+, [ 52477, "B831F704-1D42-4417-AA51-D2E33A1EA839", 52477, 1397667922, "392873", 1397667922, "392873", null, "561", "14100023", "08-01-1991", "373601", "3535194", null ]
+, [ 52478, "9004DB48-097E-495A-B9F9-333501AE795F", 52478, 1397667922, "392873", 1397667922, "392873", null, "562", "14100024", "05-18-1966", "373545", "3534183", null ]
+, [ 52479, "20919C7C-89EA-4653-A1E0-9A1F6F2D310C", 52479, 1397667922, "392873", 1397667922, "392873", null, "563", "14100025", "02-17-1950", "44625", "3534016", null ]
+, [ 52480, "362285D9-FCD3-478C-BB42-6599A5FCC0B3", 52480, 1397667922, "392873", 1397667922, "392873", null, "564", "14100026", "07-18-1956", "373596", "3534535", null ]
+, [ 52481, "5BA36530-077C-4AE3-890D-31E62CFD5F34", 52481, 1397667922, "392873", 1397667922, "392873", null, "565", "14100027", "11-10-1952", "275557", "3535356", null ]
+, [ 52482, "C122EF85-336C-4FF5-890D-1C07FA0E705F", 52482, 1397667922, "392873", 1397667922, "392873", null, "566", "14100028", "09-25-1981", "326912", "3534994", null ]
+, [ 52483, "E0C74D84-5B1F-4C9A-B338-C26D9DDA26FA", 52483, 1397667922, "392873", 1397667922, "392873", null, "567", "14100029", "11-19-1959", "360896", "3534226", null ]
+, [ 52484, "55DB1C55-92BF-401A-AB3F-CD6D77FE3197", 52484, 1397667922, "392873", 1397667922, "392873", null, "568", "14101001", "03-30-1994", "367516", "3539252", null ]
+, [ 52485, "DF1BC470-3040-4911-8076-C52970FD78D0", 52485, 1397667922, "392873", 1397667922, "392873", null, "569", "14101002", "10-15-1965", "323087", "3537208", null ]
+, [ 52486, "7FD7132C-F295-415D-A5AB-6999E9BA9F71", 52486, 1397667922, "392873", 1397667922, "392873", null, "570", "14101003", "04-19-1985", "6488", "3539487", null ]
+, [ 52487, "932A2FC5-BB46-43A6-975E-DCAB4D0CC123", 52487, 1397667922, "392873", 1397667922, "392873", null, "571", "14101004", "11-16-1965", "366624", "3537630", null ]
+, [ 52488, "E3111515-FC59-4C44-A482-5D5EE1B5FFB8", 52488, 1397667922, "392873", 1397667922, "392873", null, "572", "14101005", "11-07-1979", "373622", "3537423", null ]
+, [ 52489, "E8027750-20A7-42DF-B423-7CF838EEF82A", 52489, 1397667922, "392873", 1397667922, "392873", null, "573", "14101006", "01-22-1962", "18595", "3538917", null ]
+, [ 52490, "E9E14E75-AED8-4D0D-8387-13785B02FFAA", 52490, 1397667922, "392873", 1397667922, "392873", null, "574", "14101007", "07-09-1984", "372195", "3540078", null ]
+, [ 52491, "1D271B93-A96F-4459-BCD9-88737DD1607C", 52491, 1397667922, "392873", 1397667922, "392873", null, "575", "14101008", "01-05-1989", "366001", "3540061", null ]
+, [ 52492, "2BD2BF9A-3FCF-42AA-98C6-6B8EA78FDC47", 52492, 1397667922, "392873", 1397667922, "392873", null, "576", "14101009", "06-02-1952", "373636", "3538071", null ]
+, [ 52493, "613FBB4A-A1D1-4424-8DBB-D3B0F8E1564D", 52493, 1397667922, "392873", 1397667922, "392873", null, "577", "14101010", "02-04-1989", "291558", "3537044", null ]
+, [ 52494, "D06EBEC6-6E66-490E-B3B2-4610CAB89BEA", 52494, 1397667922, "392873", 1397667922, "392873", null, "578", "14101011", "03-27-1960", "318508", "3539340", null ]
+, [ 52495, "670071ED-292C-4C99-A44F-82E676BB614E", 52495, 1397667922, "392873", 1397667922, "392873", null, "579", "14101012", "11-23-1946", "39797", "3537901", null ]
+, [ 52496, "113C1B8E-822F-46B3-B6B4-3784573C0CB0", 52496, 1397667922, "392873", 1397667922, "392873", null, "580", "14101014", "01-15-1988", "373609", "3539846", null ]
+, [ 52497, "49E4D6A5-2969-4825-8B2D-BFCFDDE8F8DE", 52497, 1397667922, "392873", 1397667922, "392873", null, "581", "14101015", "08-17-1972", "299437", "3537534", null ]
+, [ 52498, "CF25D897-6401-462B-BF63-F6CA48714C5F", 52498, 1397667922, "392873", 1397667922, "392873", null, "582", "14101016", "06-25-1964", "41426", "3537428", null ]
+, [ 52499, "B340E165-C716-4793-B8D9-4129AEECD2BE", 52499, 1397667922, "392873", 1397667922, "392873", null, "583", "14101018", "04-14-1959", "33787", "3537518", null ]
+, [ 52500, "3C358D4A-A9F9-427F-BC54-397B559155BE", 52500, 1397667922, "392873", 1397667922, "392873", null, "584", "14101019", "04-14-1963", "364670", "3537986", null ]
+, [ 52501, "E240999D-CEA9-4FD1-B087-2029282BE4E5", 52501, 1397667922, "392873", 1397667922, "392873", null, "585", "14102001", "11-30-1970", "373678", "3541306", null ]
+, [ 52502, "70BE1BCD-D5AA-48F7-B7FD-5B8E0220BCED", 52502, 1397667922, "392873", 1397667922, "392873", null, "586", "14102002", "05-11-1976", "348586", "3543093", null ]
+, [ 52503, "79D6CF1D-FEA6-43B9-AB67-8F1F4ED1F437", 52503, 1397667922, "392873", 1397667922, "392873", null, "587", "14102003", "05-01-1954", "43062", "3540259", null ]
+, [ 52504, "041D5491-4E7C-42E1-BD4B-50E5E25A4250", 52504, 1397667922, "392873", 1397667922, "392873", null, "588", "14102004", "07-01-1982", "364821", "3542917", null ]
+, [ 52505, "B73AC334-6DFD-4D21-86C3-F9CCEB41AB8A", 52505, 1397667922, "392873", 1397667922, "392873", null, "589", "14102005", "02-14-1978", "353414", "3541162", null ]
+, [ 52506, "AC51A617-E472-4F42-B86E-6EE828A66811", 52506, 1397667922, "392873", 1397667922, "392873", null, "590", "14102007", "09-28-1969", "33598", "3542076", null ]
+, [ 52507, "CC04D68E-44AE-402E-8150-5F62F51983D1", 52507, 1397667922, "392873", 1397667922, "392873", null, "591", "14102008", "12-06-1970", "369281", "3540403", null ]
+, [ 52508, "FE0F56C9-54CA-4CD2-9E06-74D364DD6DD0", 52508, 1397667922, "392873", 1397667922, "392873", null, "592", "14102009", "12-20-1987", "373667", "3541028", null ]
+, [ 52509, "C838ECBA-7BE9-43FE-82F8-D9E89E45D3E7", 52509, 1397667922, "392873", 1397667922, "392873", null, "593", "14102010", "08-01-1963", "38331", "3541589", null ]
+, [ 52510, "A0288BEF-D76F-420C-8D86-E6A99BF96594", 52510, 1397667922, "392873", 1397667922, "392873", null, "594", "14102011", "06-16-1988", "373618", "3540780", null ]
+, [ 52511, "AF4341FF-456B-4708-B2EF-860C91BEA8C8", 52511, 1397667922, "392873", 1397667922, "392873", null, "595", "14102012", "06-12-1958", "373619", "3542378", null ]
+, [ 52512, "905E58D5-E5F7-4781-8BBB-C1671EDB54F5", 52512, 1397667922, "392873", 1397667922, "392873", null, "596", "14102013", "03-25-1991", "373661", "3540309", null ]
+, [ 52513, "121C95CB-BFFE-48D2-8B76-781B7CCB4E15", 52513, 1397667922, "392873", 1397667922, "392873", null, "597", "14102014", "12-15-1961", "356817", "3542043", null ]
+, [ 52514, "B910E620-4A94-450D-BD8D-E34FA51D2B9A", 52514, 1397667922, "392873", 1397667922, "392873", null, "598", "14102015", "02-22-1976", "41116", "3541405", null ]
+, [ 52515, "1C16F24B-79AB-44F6-BCEC-54B1614DC9DF", 52515, 1397667922, "392873", 1397667922, "392873", null, "599", "14102016", "03-06-1967", "373497", "3541108", null ]
+, [ 52516, "345E2355-9D34-469B-A31D-44DAC5665C4D", 52516, 1397667922, "392873", 1397667922, "392873", null, "600", "14102017", "08-25-1968", "49308", "3540847", null ]
+, [ 52517, "C1384B9A-34B2-4246-B358-03BA113CFDDA", 52517, 1397667922, "392873", 1397667922, "392873", null, "601", "14102019", "11-19-1957", "55630", "3540634", null ]
+, [ 52518, "42C732CD-E631-40C2-8DBD-FBC5660004D1", 52518, 1397667922, "392873", 1397667922, "392873", null, "602", "14103001", "02-20-1966", "373500", "3544486", null ]
+, [ 52519, "321538AD-DB80-47F1-BB22-07404491E1BE", 52519, 1397667922, "392873", 1397667922, "392873", null, "603", "14103002", "07-25-1951", "48047", "3543480", null ]
+, [ 52520, "5DEE0A6D-D686-4AE7-867E-68CC99EB8AFF", 52520, 1397667922, "392873", 1397667922, "392873", null, "604", "14103003", "10-26-1964", "278049", "3545350", null ]
+, [ 52521, "6DCE0FB4-4B32-4B06-88C8-D8A7DE8E84F9", 52521, 1397667922, "392873", 1397667922, "392873", null, "605", "14103004", "03-27-1964", "367668", "3544875", null ]
+, [ 52522, "2DED5357-20D8-49DA-9BF1-5D923A75759E", 52522, 1397667922, "392873", 1397667922, "392873", null, "606", "14103005", "10-01-1976", "371359", "3545573", null ]
+, [ 52523, "1B299A27-5C53-47A1-B8A3-36D8006027CA", 52523, 1397667922, "392873", 1397667922, "392873", null, "607", "14103006", "11-17-1967", "55134", "3543484", null ]
+, [ 52524, "35A3BE10-3BFA-431D-9FC4-6C0863921BEC", 52524, 1397667922, "392873", 1397667922, "392873", null, "608", "14103007", "07-10-1955", "275265", "3543341", null ]
+, [ 52525, "0F3B3D83-63DA-4F1E-B53C-DD92E54A95AD", 52525, 1397667922, "392873", 1397667922, "392873", null, "609", "14103010", "06-26-1983", "373703", "3543828", null ]
+, [ 52526, "688A88A4-0AB5-413D-83C9-69F8BD7BDC95", 52526, 1397667922, "392873", 1397667922, "392873", null, "610", "14103011", "12-17-1959", "33544", "3544312", null ]
+, [ 52527, "D9A24D5D-B575-45E4-BCCD-F5696E781286", 52527, 1397667922, "392873", 1397667922, "392873", null, "611", "14103012", "12-14-1956", "36434", "3544238", null ]
+, [ 52528, "CE94B571-F56B-494B-8FD9-6D246A850AA6", 52528, 1397667922, "392873", 1397667922, "392873", null, "612", "14103013", "01-30-1964", "47291", "3543620", null ]
+, [ 52529, "C8D65C18-59EA-4E45-AA22-C1206B80B52C", 52529, 1397667922, "392873", 1397667922, "392873", null, "613", "14104001", "12-31-1953", "15716", "3546775", null ]
+, [ 52530, "8BD1D49D-12DC-49C9-A58F-3FA836145F15", 52530, 1397667922, "392873", 1397667922, "392873", null, "614", "14104002", "06-29-1953", "369749", "3547728", null ]
+, [ 52531, "75C0C4B5-ADA4-4D37-A4AB-E5033B029F48", 52531, 1397667922, "392873", 1397667922, "392873", null, "615", "14104003", "10-10-1962", "319935", "3547460", null ]
+, [ 52532, "57EC14A6-5D5F-444F-A12C-DDF2AC451608", 52532, 1397667922, "392873", 1397667922, "392873", null, "616", "14104004", "06-15-1942", "322598", "3546126", null ]
+, [ 52533, "14E7B287-5AD4-4010-BCA7-DB3A87D78898", 52533, 1397667922, "392873", 1397667922, "392873", null, "617", "14104005", "02-04-1955", "28435", "3547650", null ]
+, [ 52534, "7C84E4BC-4F49-45E0-B25C-30423BAE7728", 52534, 1397667922, "392873", 1397667922, "392873", null, "618", "14105001", "04-29-1967", "311078", "3551785", null ]
+, [ 52535, "A90C75B8-D253-4308-8E8E-E1E885F62CA9", 52535, 1397667922, "392873", 1397667922, "392873", null, "619", "14105002", "09-02-1950", "334997", "3550980", null ]
+, [ 52536, "F291E1DB-7C49-4738-ADAE-388068E36635", 52536, 1397667922, "392873", 1397667922, "392873", null, "620", "14105003", "04-19-1983", "54482", "3549904", null ]
+, [ 52537, "F1C1DBE3-D0C0-48AD-9CE5-EEF70140056D", 52537, 1397667922, "392873", 1397667922, "392873", null, "621", "14105004", "05-02-1988", "373729", "3548566", null ]
+, [ 52538, "F1CCC46A-FD19-4127-9F42-A09395970B85", 52538, 1397667922, "392873", 1397667922, "392873", null, "622", "14105005", "06-18-1970", "329405", "3550870", null ]
+, [ 52539, "65B7DFEF-2BD9-4958-A53C-57CABA5CB17D", 52539, 1397667922, "392873", 1397667922, "392873", null, "623", "14105006", "07-10-1958", "302356", "3548341", null ]
+, [ 52540, "DB30F457-27B3-416D-ADD3-62366BB313B6", 52540, 1397667922, "392873", 1397667922, "392873", null, "624", "14105007", "12-24-1952", "26723", "3548447", null ]
+, [ 52541, "A1DFB076-7A31-4625-AC77-AAE51C626E07", 52541, 1397667922, "392873", 1397667922, "392873", null, "625", "14105008", "01-21-1980", "293588", "3550226", null ]
+, [ 52542, "7F1608EA-5208-41FF-BDBE-7B7426B419E4", 52542, 1397667922, "392873", 1397667922, "392873", null, "626", "14105009", "08-13-9174", "36701", "3552175", null ]
+, [ 52543, "899B9562-936C-4497-812A-CB21DEF961E6", 52543, 1397667922, "392873", 1397667922, "392873", null, "627", "14105010", "03-18-1954", "314907", "3550431", null ]
+, [ 52544, "EE62A694-79EE-414D-BE8D-BD5A62834969", 52544, 1397667922, "392873", 1397667922, "392873", null, "628", "14105011", "02-02-1959", "8080", "3550136", null ]
+, [ 52545, "8BE381D1-F7E6-4C01-AFF3-1F5B129DE355", 52545, 1397667922, "392873", 1397667922, "392873", null, "629", "14105012", "01-22-1960", "364774", "3549043", null ]
+, [ 52546, "84837E39-D480-4E9E-A2FE-090091A00C59", 52546, 1397667922, "392873", 1397667922, "392873", null, "630", "14105013", "06-22-1962", "362075", "3549713", null ]
+, [ 52547, "E35E4587-B5B9-480E-B4D0-2270282DFD16", 52547, 1397667922, "392873", 1397667922, "392873", null, "631", "14105014", "01-19-1967", "368868", "3549456", null ]
+, [ 52548, "F448DAFE-164F-45FD-A2C0-E95EC7B86BDE", 52548, 1397667922, "392873", 1397667922, "392873", null, "632", "14105015", "10-29-1973", "306850", "3550140", null ]
+, [ 52549, "57699DA4-4DA7-402D-9DF0-F92DB6A88E54", 52549, 1397667922, "392873", 1397667922, "392873", null, "633", "14105016", "02-16-1948", "218924", "3548856", null ]
+, [ 52550, "F41DF86C-511E-4C5D-8FEF-2356FB6BB347", 52550, 1397667922, "392873", 1397667922, "392873", null, "634", "14105017", "09-22-1968", "339963", "3550065", null ]
+, [ 52551, "0C8B78E5-6C61-4BFA-91B5-FA19C8E59B3E", 52551, 1397667922, "392873", 1397667922, "392873", null, "635", "14105018", "05-04-1951", "307589", "3552248", null ]
+, [ 52552, "E9C15215-6C24-49F1-BFB0-4AA4EB60FCFF", 52552, 1397667922, "392873", 1397667922, "392873", null, "636", "14105019", "03-11-1964", "21074", "3550578", null ]
+, [ 52553, "CCF0AC5C-1978-4415-B85D-F4DC403B86D7", 52553, 1397667922, "392873", 1397667922, "392873", null, "637", "14105020", "09-16-1959", "370593", "3551282", null ]
+, [ 52554, "8D25D49C-D7B2-411F-9EF9-5336DC61FBD1", 52554, 1397667922, "392873", 1397667922, "392873", null, "638", "14105021", "04-17-1961", "368371", "3549150", null ]
+, [ 52555, "EEA17A53-FEB4-44BC-887B-3FA582ABBAB2", 52555, 1397667922, "392873", 1397667922, "392873", null, "639", "14105022", "06-05-1967", "20765", "3548427", null ]
+, [ 52556, "F244AF4E-0355-4597-A8B1-2E702FDED1AA", 52556, 1397667922, "392873", 1397667922, "392873", null, "640", "14105023", "01-29-1968", "371485", "3548775", null ]
+, [ 52557, "187EEEDE-6BDD-4FEC-83E5-7ECE748BC789", 52557, 1397667922, "392873", 1397667922, "392873", null, "641", "14105024", "01-19-1943", "48053", "3549628", null ]
+, [ 52558, "57DBD55A-7689-442A-A14B-E18951DCB8DD", 52558, 1397667922, "392873", 1397667922, "392873", null, "642", "14105025", "12-04-1978", "366208", "3551761", null ]
+, [ 52559, "C4BFF75B-7CF9-458B-9327-2256440CA094", 52559, 1397667922, "392873", 1397667922, "392873", null, "643", "14105026", "03-07-1962", "303982", "3549786", null ]
+, [ 52560, "97F34D40-C4E6-48F4-8AC5-5A4DC15DEF76", 52560, 1397667922, "392873", 1397667922, "392873", null, "644", "14105027", "02-17-1961", "56389", "3548650", null ]
+, [ 52561, "76E52897-98EE-4328-9D94-A2B0A4DBCB88", 52561, 1397667922, "392873", 1397667922, "392873", null, "645", "14105028", "06-15-1946", "296031", "3550116", null ]
+, [ 52562, "67414176-1EB9-4E0C-A267-CD75B9630242", 52562, 1397667922, "392873", 1397667922, "392873", null, "646", "14105029", "05-18-1968", "368133", "3550686", null ]
+, [ 52563, "BBE77F22-11CC-4B86-B8D4-FFF23CA731C4", 52563, 1397667922, "392873", 1397667922, "392873", null, "647", "14106001", "07-07-1959", "329640", "3553645", null ]
+, [ 52564, "C6C37DC5-5B8A-4658-B076-1CB4BF882AE7", 52564, 1397667922, "392873", 1397667922, "392873", null, "648", "14106002", "01-17-1979", "275421", "3553883", null ]
+, [ 52565, "737F58A0-B577-465B-BD18-335EEE9654E9", 52565, 1397667922, "392873", 1397667922, "392873", null, "649", "14106003", "01-30-1982", "52244", "3555851", null ]
+, [ 52566, "C4855471-8CD2-4C82-A98B-371D1C15E896", 52566, 1397667922, "392873", 1397667922, "392873", null, "650", "14106004", "09-10-1988", "299879", "3555989", null ]
+, [ 52567, "7642C36F-1025-4EED-BBB9-4D8D097A6CA4", 52567, 1397667922, "392873", 1397667922, "392873", null, "651", "14106005", "11-21-1966", "372826", "3554216", null ]
+, [ 52568, "B96375E3-9A50-4BEF-B4D5-DBC94DCA05CF", 52568, 1397667922, "392873", 1397667922, "392873", null, "652", "14106006", "01-25-1948", "333463", "3552315", null ]
+, [ 52569, "2FD4C7FA-1B57-4099-BFEE-7B17FA0D9402", 52569, 1397667922, "392873", 1397667922, "392873", null, "653", "14106007", "06-19-1961", "31018", "3554487", null ]
+, [ 52570, "0D3203EE-98CE-4141-A323-A94AE151745B", 52570, 1397667922, "392873", 1397667922, "392873", null, "654", "14106008", "03-19-1952", "36308", "3553972", null ]
+, [ 52571, "24FC116D-606A-4BA2-9A71-58896202FB10", 52571, 1397667922, "392873", 1397667922, "392873", null, "655", "14106009", "03-22-1951", "39363", "3554479", null ]
+, [ 52572, "0CE7C2D2-2078-4AAD-ACD7-74B70C3641F4", 52572, 1397667922, "392873", 1397667922, "392873", null, "656", "14106010", "08-29-1972", "301760", "3554214", null ]
+, [ 52573, "C87B31B4-1ECA-4AA7-B368-51909AD95779", 52573, 1397667922, "392873", 1397667922, "392873", null, "657", "14106011", "09-08-1954", "335702", "3552463", null ]
+, [ 52574, "2753A1CD-9F7E-4073-AC98-3DAF72A1545F", 52574, 1397667922, "392873", 1397667922, "392873", null, "658", "14106012", "04-24-1967", "364444", "3553829", null ]
+, [ 52575, "DE11A925-5076-46E5-8140-AD1CAEE38174", 52575, 1397667922, "392873", 1397667922, "392873", null, "659", "14106013", "03-15-1964", "330668", "3556081", null ]
+, [ 52576, "E753EED6-F268-421B-8934-84947DB594BE", 52576, 1397667922, "392873", 1397667922, "392873", null, "660", "14106014", "08-12-1972", "362347", "3553962", null ]
+, [ 52577, "94699433-2F7C-4180-9E03-E8879949C7A0", 52577, 1397667922, "392873", 1397667922, "392873", null, "661", "14106015", "12-21-1961", "330946", "3555633", null ]
+, [ 52578, "A00E7769-8708-4F98-B5BA-A11B60926665", 52578, 1397667922, "392873", 1397667922, "392873", null, "662", "14106016", "03-14-1976", "356785", "3555453", null ]
+, [ 52579, "97067028-2AF5-4ABB-9FDC-E4F7C45B8B7C", 52579, 1397667922, "392873", 1397667922, "392873", null, "663", "14106017", "08-30-1973", "291675", "3552500", null ]
+, [ 52580, "DE703544-3EF1-47C7-A5FA-B69BE24BBA49", 52580, 1397667922, "392873", 1397667922, "392873", null, "664", "14106018", "03-28-1973", "323209", "3553022", null ]
+, [ 52581, "8B933EFF-0EE3-4838-8A09-B566ED8E0C7B", 52581, 1397667922, "392873", 1397667922, "392873", null, "665", "14106019", "09-30-1957", "373756", "3553297", null ]
+, [ 52582, "5A5BFDF1-9173-474C-976F-32B216BAC422", 52582, 1397667922, "392873", 1397667922, "392873", null, "666", "14106020", "03-25-1947", "331035", "3554950", null ]
+, [ 52583, "80B8CEDA-2F4A-4D25-B306-70713A23B498", 52583, 1397667922, "392873", 1397667922, "392873", null, "667", "14106021", "10-06-1970", "43825", "3554665", null ]
+, [ 52584, "A04B8AD6-A2B3-4416-9F81-85BA3A87C6A8", 52584, 1397667922, "392873", 1397667922, "392873", null, "668", "14106022", "06-23-1968", "294436", "3555005", null ]
+, [ 52585, "6E680754-E9B6-44EE-98B0-50F16E631904", 52585, 1397667922, "392873", 1397667922, "392873", null, "669", "14106023", "08-04-1961", "312305", "3555506", null ]
+, [ 52586, "AD8CCEAD-5FBC-45A1-9723-4E217512131E", 52586, 1397667922, "392873", 1397667922, "392873", null, "670", "14106024", "04-17-1979", "355639", "3552604", null ]
+, [ 52587, "610E36DC-B945-4881-B23D-183D793B32C8", 52587, 1397667922, "392873", 1397667922, "392873", null, "671", "14106025", "03-09-1965", "373760", "3554457", null ]
+, [ 52588, "A9C8423D-FA43-4726-87CF-7240E8A591D8", 52588, 1397667922, "392873", 1397667922, "392873", null, "672", "14106026", "07-23-1970", "292940", "3552823", null ]
+, [ 52589, "6A06234A-672E-40AD-B379-31D186E52868", 52589, 1397667922, "392873", 1397667922, "392873", null, "673", "14106027", "05-04-1990", "373753", "3552882", null ]
+, [ 52590, "CA3F3446-66FE-497F-A280-175A0D82AF00", 52590, 1397667922, "392873", 1397667922, "392873", null, "674", "14106028", "07-09-1958", "373578", "3554453", null ]
+, [ 52591, "EA0B012E-AEDB-43FE-B519-AA234C78DEF9", 52591, 1397667922, "392873", 1397667922, "392873", null, "675", "14106029", "10-17-1957", "373769", "3556035", null ]
+, [ 52592, "5AB12CDA-F662-4C02-A995-51E93C8DDD2C", 52592, 1397667922, "392873", 1397667922, "392873", null, "676", "14106030", "10-23-1963", "336158", "3555198", null ]
+, [ 52593, "06B2DCB2-2A93-4A55-BAE6-2E0DCA274595", 52593, 1397667922, "392873", 1397667922, "392873", null, "677", "14106031", "09-09-1962", "363298", "3554696", null ]
+, [ 52594, "E756F119-5F72-413B-B1F1-E986DCFF11CE", 52594, 1397667922, "392873", 1397667922, "392873", null, "678", "14106032", "06-04-1978", "355122", "3553655", null ]
+, [ 52595, "01B014C8-B326-436F-9BF8-9B53A42EC068", 52595, 1397667922, "392873", 1397667922, "392873", null, "679", "14106033", "08-26-1930", "326026", "3553338", null ]
+, [ 52596, "EC9FE759-E16E-42BE-910F-7D8359709C99", 52596, 1397667922, "392873", 1397667922, "392873", null, null, null, null, null, null, null ]
+ ]
+}

@@ -1,0 +1,10 @@
+
+sql/loadPeopleTableStart.sql~
+sql/q1.sql~
+sql/query1.sql~
+db/311.db
+c/daily.c~
+c/daily.o/c/libdaily.so
+c/printDaily
+c/printDaily.o
+

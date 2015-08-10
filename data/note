@@ -1,0 +1,90 @@
+pogilvie@snowden:~/Dropbox/Projects/311/js-> node updateDaily.js 20140806
+new id: 37425
+new id: 275456
+new id: 285193
+new id: 6185
+new id: 27526
+new id: 376587
+new id: 376603
+new id: 364141
+new id: 40907
+new id: 356459
+new id: 338631
+new id: 306171
+new id: 334629
+new id: 376628
+new id: 50054
+new id: 275163
+update id: 279388 old dob: 1956-07-04 new dob: 1956-07-05
+new id: 316325
+new id: 376631
+new id: 38641
+Processed: 583 New: 19 Updated: 1
+
+
+pogilvie@snowden:~/Dropbox/Projects/311/js-> node updateRequest.js 20140806
+new id: 3885311
+new id: 3885330
+new id: 3885443
+new id: 3885450
+new id: 3885522
+new id: 3885678
+new id: 3885939
+new id: 3885961
+new id: 3885967
+new id: 3885972
+new id: 3886065
+new id: 3886145
+new id: 3887512
+new id: 3887777
+new id: 3887869
+new id: 3887893
+new id: 3887909
+new id: 3887934
+new id: 3887971
+new id: 3888000
+new id: 3888135
+new id: 3888215
+new id: 3888479
+new id: 3888506
+new id: 3888578
+new id: 3888581
+new id: 3888591
+new id: 3888668
+new id: 3888746
+new id: 3888881
+new id: 3888932
+new id
+
+: 3888954
+new id: 3889027
+new id: 3889086
+new id: 3889132
+new id: 3889154
+new id: 3889255
+new id: 3889306
+new id: 3889307
+new id: 3889350
+new id: 3889678
+new id: 3889712
+new id: 3889764
+new id: 3889938
+new id: 3889952
+new id: 3890075
+new id: 3890128
+new id: 3890283
+new id: 3890302
+new id: 3890381
+new id: 3890454
+new id: 3890459
+new id: 3890474
+new id: 3890848
+new id: 3890874
+new id: 3890891
+new id: 3891143
+new id: 3891171
+new id: 3891233
+new id: 3891547
+Processed: 583 New: 60 stats.update: 0
+
+
