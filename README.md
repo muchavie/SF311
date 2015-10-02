@@ -13,7 +13,7 @@ Build
 Only Linux is supported by the Makefile right now.   The virtual table implementation is packaged as a dynamic shared library.   Dynamic shared libraries are different enought on OS X / Windows / Linux the separate build paths would be required for each.   I only have linux on my laptop so that's only one I did.  
 
 Libcurl (to fetch a url from C) and libjanson (to parse
-    and decode JSON from C) are required.    A C compiler is required of course.  :)
+    and decode JSON from C) are required.    A.  Libnup is required. C compiler is required of course.  :)
 
     % cd 311/c
     % make --version  # <- make sure have have the right make program
