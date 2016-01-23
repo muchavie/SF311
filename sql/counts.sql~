@@ -1,5 +1,0 @@
-
-
-select "People:" count(*) from Person;
-select "Requests:" count(*) from Request;
-select "QPos:" count(*) from QPos;

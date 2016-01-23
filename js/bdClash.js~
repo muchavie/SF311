@@ -1,5 +1,0 @@
-
-
-function Clash(numberofPeople, numberofDays) {
-    var birthdays = [(1<<14)], i;
-    
